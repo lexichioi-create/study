@@ -29,36 +29,37 @@ P = ["neurodivers*", "neurodivergen*", "neurodevelopment*", "neuro-developmental
      "learning difficult*", "learning disorder*", "learning difference*", "specific learning",
      "SpLD", "dyslexi*", "reading difficult*", "literacy difficult*",
      "attention deficit*", "hyperactiv*", "ADHD", "autis*", "ASD", "asperger*",
-     "special educational need*", "special need*", "disabilit*", "disabled"]
+     "special educational need*", "special need*"]
 
 CONCEPT = ["beyond the classroom", "beyond classroom*", "outside the classroom",
            "outside of the classroom", "out-of-class", "after-class", "after school",
            "out-of-school", "extracurricular", "extra-curricular", "self-access",
            "distance learning", "distance education", "informal*", "non-formal", "nonformal",
-           "naturalistic", "non-instructed", "uninstructed", "incidental", "self-instruct*",
-           "self-taught", "self-study", "autonom*", "independent learn*", "independent study",
+           "naturalistic exposure", "naturalistic acqui*", "naturalistic learn*",
+           "non-instructed", "uninstructed", "incidental learn*", "incidental acqui*",
+           "incidental exposure", "self-instruct*", "self-taught", "self-teach*", "self-learn*",
+           "self-study", "autonomy", "autonomous", "independent learn*", "independent study",
            "self-directed", "self-regulat*", "extramural", "recreation*", "leisure",
-           "digital*", "technolog*", "internet", "online", "web-based", "virtual", "comput*",
-           "software", "mobile", "app", "apps",
-           "game*", "gaming", "gamif*", "YouTube", "video*", "television", "TV", "screen",
-           "screens", "media", "multimedia", "subtitl*", "caption*", "cartoon*", "audiovisual*",
+           "digital*", "technolog*", "internet", "online", "web-based", "virtual", "computer*",
+           "software", "mobile", "app", "apps", "game*", "gaming", "gamif*", "YouTube",
+           "video", "videos", "video game*", "videogame*", "television",
+           "screen time", "screen media", "screen exposure", "screen-based", "screens",
+           "social media", "media exposure", "media use", "multimedia",
+           "subtitl*", "caption*", "cartoon*", "audiovisual*",
            "unexpected bilingual*", "non-interactive", "noninteractive",
-           "parent*", "caregiv*", "family", "families", "home", "home-based", "homework"]
+           "parent*", "caregiv*", "at home", "home-based", "home learning", "home literacy",
+           "home environment*", "homework"]
 
-CONTEXT_A = ["English", "EFL", "ESL", "EAL", "ELL", "ELLs", "TESOL", "TEFL", "ELT",
-             "foreign language*", "second language*", "third language*",
-             "additional language*", "L2", "L3", "non-native", "non-English"]
-
-# Draft B: bare "English" replaced by English N3 (...)
+# English N3 (...): "English" within 3 words of a learning term
 NEAR_TERMS = ["learn*", "teach*", "lesson*", "class*", "homework", "proficien*", "acqui*",
               "vocabular*", "literacy", "reading", "skill*", "instruct*", "extramural",
               "exposure", "input"]
-CONTEXT_B = [("english", NEAR_TERMS, 3)] + [t for t in CONTEXT_A if t != "English"]
+CONTEXT = [("english", NEAR_TERMS, 3),
+           "EFL", "ESL", "EAL", "ELL", "ELLs", "TESOL", "TEFL", "ELT",
+           "foreign language*", "second language*", "third language*", "additional language*",
+           "L2", "L3", "non-native", "non-English", "unexpected bilingual*"]
 
-DRAFTS = {
-    "Draft A": {"P": P, "Concept": CONCEPT, "Context": CONTEXT_A},
-    "Draft B": {"P": P, "Concept": CONCEPT, "Context": CONTEXT_B},
-}
+DRAFTS = {"Final": {"P": P, "Concept": CONCEPT, "Context": CONTEXT}}
 
 # --- Validation set ----------------------------------------------------------
 
