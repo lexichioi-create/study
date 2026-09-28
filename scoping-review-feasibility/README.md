@@ -1,7 +1,7 @@
 # 실행 가능성 검토: EFL 신경다양 학습자의 교실 밖 영어 학습 스코핑 리뷰
 
 > 가제: *EFL learners with neurodevelopmental disorders learning English beyond the classroom: A scoping review*
-> 파일럿 검색일: 2026-09-27 · 상세 검색 로그: [`search-log.md`](search-log.md) · 후보 목록: [`candidate-studies.csv`](candidate-studies.csv)
+> 파일럿 검색일: 2026-09-27 · 상세 검색 로그: [`search-log.md`](search-log.md) · 후보 목록: [`candidate-studies.csv`](candidate-studies.csv) · 수정 검색식(검증 완료): [`search-string.md`](search-string.md)
 
 **TL;DR:** 실행할 수 있지만 조건이 있다. 엄격한 기준으로는 핵심 연구가 11편(자폐 7, ADHD 1, 난독증/SpLD 3)이고, 경계·회색문헌 9편을 더하면 약 20편이다. 스코핑 리뷰의 목적 중 하나가 근거 유형과 지식 공백의 파악이므로(Munn et al., 2018), 편수가 적다는 것 자체는 결격 사유가 아니다. 다만 범위 설계와 검색어 설계가 성패를 가른다.
 
