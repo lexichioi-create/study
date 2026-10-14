@@ -1,0 +1,12 @@
+  UD features file being used: "/tmp/claude-0/-home-user-study/76ce84a8-2f55-5940-a73b-c422eb09cb06/scratchpad/clan_dl/src/unix-clan/lib/fixes/UD_features.cut"
+Language codes file being used: "/tmp/claude-0/-home-user-study/76ce84a8-2f55-5940-a73b-c422eb09cb06/scratchpad/clan_dl/src/unix-clan/lib/fixes/ISO-639.cut"
+Dep-file being used: "/tmp/claude-0/-home-user-study/76ce84a8-2f55-5940-a73b-c422eb09cb06/scratchpad/clan_dl/src/unix-clan/lib/depfile.cut"
+check data/holiday.cha
+Wed Oct 14 10:11:14 2026
+check (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+    and those speakers' ALL dependent tiers
+  and ALL header tiers
+****************************************
+
+ALL FILES CHECKED OUT OK!

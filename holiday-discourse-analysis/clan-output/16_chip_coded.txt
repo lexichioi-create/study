@@ -1,0 +1,899 @@
+chip +bLEX +cMAR -t%mor -f data/holiday.cha
+Wed Oct 14 10:11:15 2026
+chip (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+*LEX:	I will ask you, &-um, how does your family celebrate your holidays ?
+*MAR:	what kind of holiday ?
+%chi:	$NO_REP $REP = 0.00
+*LEX:	oh, okay, so let's talk about a traditional holiday .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:holiday $ADD:oh-okay-so-let's-talk-about-a-traditional
+	$DEL:what-kind-of $DIST = 1 $REP = 0.11
+*MAR:	ah, traditional holidays .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:traditional $ADD:ah $ADD:holidays
+	$DEL:oh-okay-so-let's-talk-about-a $DEL:holiday $DIST = 1 $REP =
+	0.33
+*MAR:	I mean, we have a lot, but I mean, my favorite one, that [//] which one I would like to tell you, it's about Christmas .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:a $EXA:about $ADD:I-mean-we-have
+	$ADD:lot-but-I-mean-my-favorite-one-that-which-one-I-would-like-to-tell-you-it's
+	$ADD:Christmas $DEL:oh-okay-so-let's-talk $DEL:traditional-holiday
+	$DIST = 2 $REP = 0.08
+*MAR:	and oh, yeah, for us, Christmas is very important, especially because we have a family culture, very strong .
+%csr:	$EXA:Christmas $EXA:we-have-a $ADD:and-oh-yeah-for-us
+	$ADD:is-very-important-especially-because
+	$ADD:family-culture-very-strong $DEL:I-mean
+	$DEL:lot-but-I-mean-my-favorite-one-that-which-one-I-would-like-to-tell-you-it's-about
+	$DIST = 1 $REP = 0.22
+%chi:	$EXA:oh $EXA:a $ADD:and
+	$ADD:yeah-for-us-Christmas-is-very-important-especially-because-we-have
+	$ADD:family-culture-very-strong $DEL:okay-so-let's-talk-about
+	$DEL:traditional-holiday $DIST = 3 $REP = 0.11
+*MAR:	so family, it's really important for us .
+%csr:	$EXA:family $EXA:important-for-us $ADD:so $ADD:it's-really
+	$DEL:and-oh-yeah $DEL:Christmas-is-very
+	$DEL:especially-because-we-have-a $DEL:culture-very-strong $DIST = 1
+	$REP = 0.57
+%chi:	$EXA:so $ADD:family-it's-really-important-for-us $DEL:oh-okay
+	$DEL:let's-talk-about-a-traditional-holiday $DIST = 4 $REP = 0.14
+*MAR:	so, &-uh, yeah, in our case, in family, in Christmas, all the family get together in someone's house, like maybe in my house or my own house .
+%csr:	$EXA:so $EXA:family $ADD:yeah-in-our-case-in
+	$ADD:in-Christmas-all-the-family-get-together-in-someone's-house-like-maybe-in-my-house-or-my-own-house
+	$DEL:it's-really-important-for-us $DIST = 1 $REP = 0.08
+%chi:	$EXA:so
+	$ADD:yeah-in-our-case-in-family-in-Christmas-all-the-family-get-together-in-someone's-house-like-maybe-in-my-house-or-my-own-house
+	$DEL:oh-okay $DEL:let's-talk-about-a-traditional-holiday $DIST = 5
+	$REP = 0.04
+*MAR:	yeah .
+%csr:	$EXA:yeah $DEL:so
+	$DEL:in-our-case-in-family-in-Christmas-all-the-family-get-together-in-someone's-house-like-maybe-in-my-house-or-my-own-house
+	$REDUC $DIST = 1 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	and <you have> [//] basically we try to do it Christmas funny .
+%csr:	$NO_REP $REP = 0.00
+*LEX:	funny ?
+%adu:	$EXA:funny $DEL:and-you-have-basically-we-try-to-do-it-Christmas
+	$REDUC $DIST = 1 $REP = 1.00
+*LEX:	in a fun way, you mean ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:you $ADD:in-a-fun-way $ADD:mean $DEL:and
+	$DEL:have-basically-we-try-to-do-it-Christmas-funny $DIST = 2 $REP =
+	0.17
+*MAR:	yeah, yeah, yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	because we try to play some games and also do the Secret_Santa .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	do you know Secret_Santa ?
+%csr:	$EXA:do $EXA:Secret_Santa $ADD:you-know
+	$DEL:because-we-try-to-play-some-games-and-also $DEL:the $DIST = 1
+	$REP = 0.50
+%chi:	$EXA:you $ADD:do $ADD:know-Secret_Santa $DEL:in-a-fun-way $DEL:mean
+	$DIST = 3 $REP = 0.25
+*LEX:	what is that ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	oh, like, yeah, Manito .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	here in Korea, we call that Manito .
+%asr:	$EXA:Manito $ADD:here-in-Korea-we-call-that $DEL:oh-like-yeah $DIST
+	= 1 $REP = 0.14
+%adu:	$NO_REP $REP = 0.00
+*MAR:	Manito ?
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:Manito $DEL:here-in-Korea-we-call-that $REDUC $DIST = 1 $REP =
+	1.00
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	I guess that's a French word .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	I thought, oh, your ex is French .
+%asr:	$EXA:I $EXA:French $ADD:thought-oh-your-ex-is $DEL:guess-that's-a
+	$DEL:word $DIST = 1 $REP = 0.29
+%adu:	$NO_REP $REP = 0.00
+*MAR:	he never told me about Manito .
+%csr:	$EXA:Manito $ADD:he-never-told-me-about $EXPAN $DIST = 4 $REP =
+	0.17
+%chi:	$NO_REP $REP = 0.00
+*LEX:	Manito is, I guess it's something like +//.
+%asr:	$EXA:is-I $ADD:Manito $ADD:guess-it's-something-like
+	$DEL:thought-oh-your-ex $DEL:French $DIST = 2 $REP = 0.29
+%adu:	$EXA:Manito $ADD:is-I-guess-it's-something-like
+	$DEL:he-never-told-me-about $DIST = 1 $REP = 0.14
+*LEX:	oh, bye Paula .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	I guess it's something like +...
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	wait, I don't know .
+%asr:	$EXA:I $ADD:wait $ADD:don't-know $DEL:guess-it's-something-like
+	$DIST = 1 $REP = 0.25
+%adu:	$NO_REP $REP = 0.00
+*MAR:	Manito ?
+%csr:	$EXA:Manito $DEL:he-never-told-me-about $REDUC $DIST = 5 $REP =
+	1.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	yeah, like, yeah, yeah, you have like to give a present to someone .
+%asr:	$EXA:yeah
+	$ADD:like-yeah-yeah-you-have-like-to-give-a-present-to-someone
+	$EXPAN $DIST = 1 $REP = 0.08
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah, but you are secret .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:yeah $EXA:you $ADD:but $ADD:are-secret $DEL:like-yeah-yeah
+	$DEL:have-like-to-give-a-present-to-someone $DIST = 1 $REP = 0.40
+*LEX:	yeah, yeah, <you don't> [//] the other person doesn't know that you are going to give him or her that present .
+%asr:	$EXA:yeah-yeah-you $EXA:to-give $EXA:present
+	$ADD:don't-the-other-person-doesn't-know-that-you-are-going
+	$ADD:him-or-her-that $DEL:like $DEL:yeah $DEL:have-like $DEL:a
+	$DEL:to-someone $DIST = 2 $REP = 0.30
+%adu:	$EXA:yeah $EXA:you $EXA:are $ADD:yeah
+	$ADD:don't-the-other-person-doesn't-know-that-you
+	$ADD:going-to-give-him-or-her-that-present $DEL:but $DEL:secret
+	$DIST = 1 $REP = 0.15
+*MAR:	yeah .
+%csr:	$EXA:yeah $DEL:but-you-are-secret $REDUC $DIST = 2 $REP = 1.00
+%chi:	$EXA:yeah
+	$DEL:yeah-you-don't-the-other-person-doesn't-know-that-you-are-going-to-give-him-or-her-that-present
+	$REDUC $DIST = 1 $REP = 1.00
+*MAR:	and then we eat, like we eat turkey and also +...
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	oh my God, seriously ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	and also panettone .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	I think it's like Italian panettone .
+%csr:	$EXA:panettone $ADD:I-think-it's-like-Italian $DEL:and-also $DIST =
+	1 $REP = 0.17
+%chi:	$NO_REP $REP = 0.00
+*LEX:	do you know panettone in Italy ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:panettone $ADD:do-you-know $ADD:in-Italy
+	$DEL:I-think-it's-like-Italian $DIST = 1 $REP = 0.17
+*MAR:	yeah, we have the same .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	yeah, we also eat panettone, but in Spanish we said panettone, not panettone like Italian .
+%csr:	$EXA:yeah-we
+	$ADD:also-eat-panettone-but-in-Spanish-we-said-panettone-not-panettone-like-Italian
+	$DEL:have-the-same $DIST = 1 $REP = 0.13
+%chi:	$EXA:panettone $EXA:in $ADD:yeah-we-also-eat $ADD:but
+	$ADD:Spanish-we-said-panettone-not-panettone-like-Italian
+	$DEL:do-you-know $DEL:Italy $DIST = 2 $REP = 0.13
+*MAR:	and with hot chocolate .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	and then we have at twelve, we have the artificial fireworks .
+%csr:	$EXA:and
+	$ADD:then-we-have-at-twelve-we-have-the-artificial-fireworks
+	$DEL:with-hot-chocolate $DIST = 1 $REP = 0.09
+%chi:	$NO_REP $REP = 0.00
+*MAR:	no, yeah, fireworks .
+%csr:	$EXA:fireworks $ADD:no-yeah
+	$DEL:and-then-we-have-at-twelve-we-have-the-artificial $DIST = 1
+	$REP = 0.33
+%chi:	$NO_REP $REP = 0.00
+*MAR:	and then we give presents .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	yeah, I mean, that's all that we did .
+%csr:	$EXA:we $ADD:yeah-I-mean-that's-all-that $ADD:did $DEL:and-then
+	$DEL:give-presents $DIST = 1 $REP = 0.12
+*LEX:	ask me .
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah, what do you do ?
+%csr:	$EXA:yeah $ADD:what-do-you-do $DEL:I-mean-that's-all-that-we-did
+	$DIST = 2 $REP = 0.20
+%chi:	$NO_REP $REP = 0.00
+*MAR:	what's your favorite holiday ?
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	<how does your> [/] how does your family usually celebrate holidays ?
+%csr:	$EXA:your $ADD:how-does
+	$ADD:how-does-your-family-usually-celebrate-holidays $DEL:what's
+	$DEL:favorite-holiday $DIST = 1 $REP = 0.10
+%chi:	$NO_REP $REP = 0.00
+*LEX:	what holidays ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:holidays $ADD:what
+	$DEL:how-does-your-how-does-your-family-usually-celebrate $DIST = 1
+	$REP = 0.50
+*LEX:	actually, I was about to ask this question .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	I was like, what are you curious about ?
+%asr:	$EXA:I-was $EXA:about $ADD:like-what-are-you-curious $DEL:actually
+	$DEL:to-ask-this-question $DIST = 1 $REP = 0.38
+%adu:	$NO_REP $REP = 0.00
+*LEX:	about Chuseok ?
+%asr:	$EXA:about $ADD:Chuseok $DEL:I-was-like-what-are-you-curious $DIST
+	= 1 $REP = 0.50
+%adu:	$NO_REP $REP = 0.00
+*LEX:	what did you do this Chuseok ?
+%asr:	$EXA:Chuseok $ADD:what-did-you-do-this $DEL:about $DIST = 1 $REP =
+	0.17
+%adu:	$NO_REP $REP = 0.00
+*MAR:	nothing .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	what ?
+%asr:	$EXA:what $DEL:did-you-do-this-Chuseok $REDUC $DIST = 2 $REP = 1.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	no, in Chuseok, I just spend time with my friends, just going out .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	like, I don't know .
+%csr:	$EXA:I $ADD:like $ADD:don't-know $DEL:no-in-Chuseok
+	$DEL:just-spend-time-with-my-friends-just-going-out $DIST = 1 $REP =
+	0.25
+%chi:	$NO_REP $REP = 0.00
+*MAR:	we went to one of my friend's house to have lunch together and then take some pictures .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	and then, yeah, that's all .
+%csr:	$EXA:and-then $ADD:yeah-that's-all
+	$DEL:we-went-to-one-of-my-friend's-house-to-have-lunch-together
+	$DEL:take-some-pictures $DIST = 1 $REP = 0.40
+%chi:	$NO_REP $REP = 0.00
+*LEX:	because in our case, we actually go to like those graves .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	you know, those tombs, right ?
+%asr:	$EXA:those $ADD:you-know $ADD:tombs-right
+	$DEL:because-in-our-case-we-actually-go-to-like $DEL:graves $DIST =
+	1 $REP = 0.20
+%adu:	$NO_REP $REP = 0.00
+*LEX:	like, yeah, cemetery .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:yeah $ADD:like $ADD:cemetery $DEL:and-then $DEL:that's-all
+	$DIST = 3 $REP = 0.33
+*MAR:	yeah, go there .
+%csr:	$EXA:yeah $ADD:go-there $DEL:and-then $DEL:that's-all $DIST = 4
+	$REP = 0.33
+%chi:	$EXA:yeah $ADD:go-there $DEL:like $DEL:cemetery $DIST = 1 $REP =
+	0.33
+*LEX:	and then we do like this thing for Chuseok .
+%asr:	$EXA:like $ADD:and-then-we-do $ADD:this-thing-for-Chuseok
+	$DEL:yeah-cemetery $DIST = 2 $REP = 0.11
+%adu:	$NO_REP $REP = 0.00
+*LEX:	like, we have spirits, right ?
+%asr:	$EXA:like-we $ADD:have-spirits-right $DEL:and-then $DEL:do
+	$DEL:this-thing-for-Chuseok $DIST = 1 $REP = 0.40
+%adu:	$NO_REP $REP = 0.00
+*LEX:	ancestors .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	do you know ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	did you know this ?
+%asr:	$EXA:you-know $ADD:did $ADD:this $DEL:do $DIST = 1 $REP = 0.50
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$EXA:yeah $DEL:go-there $REDUC $DIST = 6 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	oh, yeah !
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:yeah $ADD:oh $EXPAN $DIST = 1 $REP = 0.50
+*LEX:	you learned this in Korean center ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	kind of .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	but yeah, I know .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	like, we buy those kind of foods and then we cook like those kind of tempura, I don't know, like, if I'm supposed to say the Japanese word .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:I $EXA:know
+	$ADD:like-we-buy-those-kind-of-foods-and-then-we-cook-like-those-kind-of-tempura
+	$ADD:don't $ADD:like-if-I'm-supposed-to-say-the-Japanese-word
+	$DEL:but-yeah $DIST = 1 $REP = 0.07
+*MAR:	but yeah, I know .
+%csr:	$EXA:but-yeah-I-know $EXACT $DIST = 2 $REP = 1.00
+%chi:	$EXA:I-know $ADD:but-yeah
+	$DEL:like-we-buy-those-kind-of-foods-and-then-we-cook-like-those-kind-of-tempura
+	$DEL:don't $DEL:like-if-I'm-supposed-to-say-the-Japanese-word $DIST
+	= 1 $REP = 0.50
+*LEX:	and the Korean traditional foods that we serve to the ancestors .
+%asr:	$EXA:and-the $EXA:foods $EXA:we $EXA:to $ADD:Korean-traditional
+	$ADD:that $ADD:serve $ADD:the-ancestors $DEL:like
+	$DEL:buy-those-kind-of
+	$DEL:then-we-cook-like-those-kind-of-tempura-I-don't-know-like-if-I'm-supposed
+	$DEL:say $DEL:Japanese-word $DIST = 2 $REP = 0.45
+%adu:	$NO_REP $REP = 0.00
+*MAR:	ah, so you go to the tomb and you give them the food ?
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:to-the $EXA:and $EXA:the $ADD:ah-so-you-go $ADD:tomb
+	$ADD:you-give-them $ADD:food
+	$DEL:Korean-traditional-foods-that-we-serve $DEL:ancestors $DIST = 1
+	$REP = 0.31
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and that, like, it's my grandmother and grandpa .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:and $ADD:that-like-it's-my-grandmother-and-grandpa
+	$DEL:ah-so-you-go-to-the-tomb $DEL:you-give-them-the-food $DIST = 2
+	$REP = 0.12
+*LEX:	like, they died .
+%asr:	$EXA:like $ADD:they-died $DEL:and-that
+	$DEL:it's-my-grandmother-and-grandpa $DIST = 1 $REP = 0.33
+%adu:	$NO_REP $REP = 0.00
+*LEX:	so like, they are in the cemetery .
+%asr:	$EXA:like-they $ADD:so $ADD:are-in-the-cemetery $DEL:died $DIST = 1
+	$REP = 0.29
+%adu:	$EXA:so $EXA:the $ADD:like-they-are-in $ADD:cemetery $DEL:ah
+	$DEL:you-go-to $DEL:tomb-and-you-give-them-the-food $DIST = 4 $REP =
+	0.29
+*LEX:	so like, we go there and then we pray .
+%asr:	$EXA:so-like $ADD:we-go-there-and-then-we-pray
+	$DEL:they-are-in-the-cemetery $DIST = 1 $REP = 0.22
+%adu:	$EXA:so $EXA:go $EXA:and $ADD:like-we $ADD:there $ADD:then-we-pray
+	$DEL:ah $DEL:you $DEL:to-the-tomb $DEL:you-give-them-the-food $DIST
+	= 5 $REP = 0.33
+*LEX:	and then we like do the bow .
+%asr:	$EXA:and-then-we-like $ADD:do-the-bow $DEL:so $DEL:go-there
+	$DEL:we-pray $DIST = 1 $REP = 0.57
+%adu:	$EXA:and $EXA:the $ADD:then-we-like-do $ADD:bow
+	$DEL:ah-so-you-go-to $DEL:tomb $DEL:you-give-them-the-food $DIST = 6
+	$REP = 0.29
+*LEX:	do you know bow ?
+%asr:	$EXA:do $EXA:bow $ADD:you-know $DEL:and-then-we-like $DEL:the $DIST
+	= 1 $REP = 0.50
+*MAR:	yeah, yeah, yeah .
+%chi:	$NO_REP $REP = 0.00
+*MAR:	the reverence .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah, yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	we do that .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and then we meet our relatives .
+%asr:	$EXA:we $ADD:and-then $ADD:meet-our-relatives $DEL:do-that $DIST =
+	1 $REP = 0.17
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and we hang out and we drink with those kind of foods from those .
+%asr:	$EXA:and-we
+	$ADD:hang-out-and-we-drink-with-those-kind-of-foods-from-those
+	$DEL:then $DEL:meet-our-relatives $DIST = 1 $REP = 0.14
+%adu:	$NO_REP $REP = 0.00
+*LEX:	what do you call that ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	I forgot .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	there is this term for it .
+%asr:	$NO_REP $REP = 0.00
+*LEX:	like, it's not ceremony .
+%asr:	$NO_REP $REP = 0.00
+*LEX:	what the fuck ?
+%asr:	$NO_REP $REP = 0.00
+*LEX:	it's like, I don't know .
+%asr:	$NO_REP $REP = 0.00
+*LEX:	but there is this English term to call that .
+%asr:	$NO_REP $REP = 0.00
+*LEX:	but I forgot .
+%asr:	$EXA:but $ADD:I-forgot $DEL:there-is-this-English-term-to-call-that
+	$DIST = 1 $REP = 0.33
+*LEX:	yeah, we do that .
+%asr:	$NO_REP $REP = 0.00
+*LEX:	like, it's like ritual .
+%asr:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%chi:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$EXA:yeah $EXACT $DIST = 1 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	something like that .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:like $ADD:something $ADD:that $DEL:it's-like-ritual $DIST = 3
+	$REP = 0.33
+*MAR:	I think it's very similar to Mexican .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:it's $ADD:I-think $ADD:very-similar-to-Mexican $DEL:like
+	$DEL:like-ritual $DIST = 4 $REP = 0.14
+*MAR:	did you see the movie Coco ?
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	yeah .
+%asr:	$EXA:yeah $EXACT $DIST = 1 $REP = 1.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	just some of them .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	Coco has also like Mexican .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	but it's not that pretty .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	you know, it's like Asians different .
+%asr:	$EXA:it's $ADD:you-know $ADD:like-Asians-different $DEL:but
+	$DEL:not-that-pretty $DIST = 1 $REP = 0.17
+%adu:	$EXA:like $ADD:you-know-it's $ADD:Asians-different
+	$DEL:Coco-has-also $DEL:Mexican $DIST = 2 $REP = 0.17
+*MAR:	it's like, yeah, yeah .
+%csr:	$EXA:like $ADD:it's $ADD:yeah-yeah $DEL:Coco-has-also $DEL:Mexican
+	$DIST = 3 $REP = 0.25
+%chi:	$EXA:it's-like $ADD:yeah-yeah $DEL:you-know $DEL:Asians-different
+	$DIST = 1 $REP = 0.50
+*MAR:	but I mean, the fact that you go to the tomb and give food, I think it's very related to it .
+%csr:	$EXA:it's
+	$ADD:but-I-mean-the-fact-that-you-go-to-the-tomb-and-give-food-I-think
+	$ADD:very-related-to-it $DEL:like-yeah-yeah $DIST = 1 $REP = 0.05
+%chi:	$EXA:you $EXA:it's $ADD:but-I-mean-the-fact-that
+	$ADD:go-to-the-tomb-and-give-food-I-think $ADD:very-related-to-it
+	$DEL:know $DEL:like-Asians-different $DIST = 2 $REP = 0.10
+*MAR:	but of course, it's very different, like in some ways .
+%csr:	$EXA:but $EXA:it's-very $ADD:of-course
+	$ADD:different-like-in-some-ways
+	$DEL:I-mean-the-fact-that-you-go-to-the-tomb-and-give-food-I-think
+	$DEL:related-to-it $DIST = 1 $REP = 0.30
+%chi:	$EXA:it's $EXA:different-like $ADD:but-of-course $ADD:very
+	$ADD:in-some-ways $DEL:you-know $DEL:Asians $DIST = 3 $REP = 0.30
+*LEX:	yeah, because that's really ritual .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	in this case, it's quite different, I guess .
+%csr:	$EXA:in $EXA:it's $EXA:different $ADD:this-case $ADD:quite
+	$ADD:I-guess $DEL:but-of-course $DEL:very $DEL:like $DEL:some-ways
+	$DIST = 2 $REP = 0.38
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah, yeah .
+%asr:	$EXA:yeah $ADD:yeah $DEL:because-that's-really-ritual $DIST = 2
+	$REP = 0.50
+%adu:	$NO_REP $REP = 0.00
+*MAR:	I think it's different .
+%csr:	$EXA:I $EXA:it's-different $ADD:think $DEL:in-this-case $DEL:quite
+	$DEL:guess $DIST = 2 $REP = 0.75
+%chi:	$NO_REP $REP = 0.00
+*MAR:	but I didn't know that you go with food there .
+%csr:	$EXA:I $ADD:but $ADD:didn't-know-that-you-go-with-food-there
+	$DEL:think-it's-different $DIST = 1 $REP = 0.10
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah, of course we need to go with food .
+%asr:	$EXA:yeah $ADD:of-course-we-need-to-go-with-food $DEL:yeah $DIST =
+	3 $REP = 0.11
+%adu:	$EXA:go-with-food $ADD:yeah-of-course-we-need-to
+	$DEL:but-I-didn't-know-that-you $DEL:there $DIST = 1 $REP = 0.33
+*LEX:	and then some soju .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	and you leave the food there ?
+%csr:	$EXA:you $EXA:food-there $ADD:and $ADD:leave-the
+	$DEL:but-I-didn't-know-that $DEL:go-with $DIST = 3 $REP = 0.50
+%chi:	$EXA:and $ADD:you-leave-the-food-there $DEL:then-some-soju $DIST =
+	1 $REP = 0.17
+*LEX:	no, we of course need to clean it up .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	we leave flowers .
+%asr:	$EXA:we $ADD:leave-flowers $DEL:no
+	$DEL:of-course-need-to-clean-it-up $DIST = 1 $REP = 0.33
+%adu:	$EXA:leave $ADD:we $ADD:flowers $DEL:and-you $DEL:the-food-there
+	$DIST = 2 $REP = 0.33
+*MAR:	wait, and what did you do with the food ?
+%csr:	$EXA:and $EXA:you $EXA:the-food $ADD:wait $ADD:what-did
+	$ADD:do-with $DEL:leave $DEL:there $DIST = 3 $REP = 0.44
+%chi:	$NO_REP $REP = 0.00
+*LEX:	we eat it .
+%asr:	$EXA:we $ADD:eat-it $DEL:leave-flowers $DIST = 2 $REP = 0.33
+%adu:	$NO_REP $REP = 0.00
+*LEX:	we believe that it is quite really, you know, good to eat those kind of foods .
+%asr:	$EXA:we $EXA:it $EXA:eat $ADD:believe-that
+	$ADD:is-quite-really-you-know-good-to $ADD:those-kind-of-foods
+	$EXPAN $DIST = 1 $REP = 0.19
+%adu:	$EXA:you $ADD:we-believe-that-it-is-quite-really
+	$ADD:know-good-to-eat-those-kind-of-foods $DEL:wait-and-what-did
+	$DEL:do-with-the-food $DIST = 2 $REP = 0.06
+*LEX:	because after having the rituals, it's quite like, I don't know .
+%asr:	$EXA:quite $EXA:know $ADD:because-after-having-the-rituals-it's
+	$ADD:like-I-don't $DEL:we-believe-that-it-is $DEL:really-you
+	$DEL:good-to-eat-those-kind-of-foods $DIST = 1 $REP = 0.18
+%adu:	$EXA:the $ADD:because-after-having
+	$ADD:rituals-it's-quite-like-I-don't-know
+	$DEL:wait-and-what-did-you-do-with $DEL:food $DIST = 3 $REP = 0.09
+*LEX:	I don't know how to call it baptized .
+%asr:	$EXA:I-don't-know $ADD:how-to-call-it-baptized
+	$DEL:because-after-having-the-rituals-it's-quite-like $DIST = 1 $REP
+	= 0.38
+%adu:	$NO_REP $REP = 0.00
+*LEX:	what the fuck is that ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:what-the $ADD:fuck-is-that $DEL:wait-and $DEL:did-you-do-with
+	$DEL:food $DIST = 5 $REP = 0.40
+*MAR:	you go with the food, like kind of to share and eat there with your +...
+%csr:	$EXA:you $EXA:with-the-food $EXA:and $ADD:go
+	$ADD:like-kind-of-to-share $ADD:eat-there-with-your $DEL:wait
+	$DEL:what-did $DEL:do $DIST = 6 $REP = 0.33
+%chi:	$EXA:the $ADD:you-go-with
+	$ADD:food-like-kind-of-to-share-and-eat-there-with-your $DEL:what
+	$DEL:fuck-is-that $DIST = 1 $REP = 0.07
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	oh, yeah, it's very different .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:yeah $ADD:oh $ADD:it's-very-different $EXPAN $DIST = 1 $REP =
+	0.20
+*MAR:	because in Mexico and also in my country, we left the food there .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	but you're not from Mexico .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:Mexico $ADD:but-you're-not-from $DEL:because-in
+	$DEL:and-also-in-my-country-we-left-the-food-there $DIST = 1 $REP =
+	0.20
+*MAR:	no, no .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	but in Peru, we also have that dates like that .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:but $ADD:in-Peru-we-also-have-that-dates-like-that
+	$DEL:you're-not-from-Mexico $DIST = 2 $REP = 0.10
+*MAR:	I don't know how to say it in English .
+%csr:	$EXA:in $ADD:I-don't-know-how-to-say-it $ADD:English $DEL:but
+	$DEL:Peru-we-also-have-that-dates-like-that $DIST = 1 $REP = 0.11
+%chi:	$NO_REP $REP = 0.00
+*MAR:	but in Spanish it's el@s:spa Día_de_los_Muertos@s:spa which is the day that we celebrate the people who left, who died .
+%csr:	$EXA:in $ADD:but
+	$ADD:Spanish-it's-el@s-spa-Día_de_los_Muertos@s-spa-which-is-the-day-that-we-celebrate-the-people-who-left-who-died
+	$DEL:I-don't-know-how-to-say-it $DEL:English $DIST = 1 $REP = 0.05
+%chi:	$EXA:but
+	$ADD:in-Spanish-it's-el@s-spa-Día_de_los_Muertos@s-spa-which-is-the-day-that-we-celebrate-the-people-who-left-who-died
+	$DEL:you're-not-from-Mexico $DIST = 4 $REP = 0.05
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	but we left the food there .
+%csr:	$EXA:but-we-left-the $ADD:food-there
+	$DEL:in-Spanish-it's-el@s-spa-Día_de_los_Muertos@s-spa-which-is
+	$DEL:day-that $DEL:celebrate-the-people-who $DEL:who-died $DIST = 2
+	$REP = 0.67
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah .
+%asr:	$EXA:yeah $EXACT $DIST = 2 $REP = 1.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and in our case, we eat it .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:we $ADD:and-in-our-case $ADD:eat-it $DEL:but
+	$DEL:left-the-food-there $DIST = 2 $REP = 0.14
+*LEX:	and then if there's like makgeolli, you haven't heard of makgeolli, right ?
+%asr:	$EXA:and
+	$ADD:then-if-there's-like-makgeolli-you-haven't-heard-of-makgeolli-right
+	$DEL:in-our-case-we-eat-it $DIST = 1 $REP = 0.08
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	we have the makgeolli .
+%asr:	$EXA:makgeolli $ADD:we-have-the $DEL:and-then-if-there's-like
+	$DEL:you-haven't-heard-of-makgeolli-right $DIST = 2 $REP = 0.25
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and then we serve makgeolli .
+%asr:	$EXA:we $EXA:makgeolli $ADD:and-then $ADD:serve $DEL:have-the $DIST
+	= 1 $REP = 0.40
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and then if you drink the served makgeolli, it's kind of good because like that is a, I don't know .
+%asr:	$EXA:and-then $EXA:makgeolli $ADD:if-you-drink-the-served
+	$ADD:it's-kind-of-good-because-like-that-is-a-I-don't-know
+	$DEL:we-serve $DIST = 1 $REP = 0.15
+%adu:	$NO_REP $REP = 0.00
+*LEX:	wait, I'll search the term .
+%asr:	$EXA:the $ADD:wait-I'll-search $ADD:term $DEL:and-then-if-you-drink
+	$DEL:served-makgeolli-it's-kind-of-good-because-like-that-is-a-I-don't-know
+	$DIST = 1 $REP = 0.20
+%adu:	$NO_REP $REP = 0.00
+*LEX:	no .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	yeah, divine .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:yeah $ADD:divine $EXPAN $DIST = 6 $REP = 0.50
+*MAR:	yeah .
+%chi:	$EXA:yeah $DEL:divine $REDUC $DIST = 1 $REP = 1.00
+*MAR:	yeah .
+%csr:	$EXA:yeah $EXACT $DIST = 1 $REP = 1.00
+%chi:	$EXA:yeah $DEL:divine $REDUC $DIST = 2 $REP = 1.00
+*LEX:	something's like that because we did ritual in it .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$EXA:yeah $EXACT $DIST = 2 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	so we need to eat those foods .
+%asr:	$EXA:we $ADD:so $ADD:need-to-eat-those-foods
+	$DEL:something's-like-that-because $DEL:did-ritual-in-it $DIST = 2
+	$REP = 0.14
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and before the ritual, you're not really allowed to eat .
+%asr:	$EXA:to-eat $ADD:and-before-the-ritual-you're-not-really-allowed
+	$DEL:so-we-need $DEL:those-foods $DIST = 1 $REP = 0.20
+%adu:	$NO_REP $REP = 0.00
+*LEX:	but of course, we do .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	because we do eat those kind of foods before serving, but it's not really suggested .
+%asr:	$EXA:we-do $EXA:of $EXA:but $ADD:because $ADD:eat-those-kind
+	$ADD:foods-before-serving $ADD:it's-not-really-suggested $DEL:course
+	$DIST = 1 $REP = 0.27
+%adu:	$NO_REP $REP = 0.00
+*MAR:	wow .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	so you eat it .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:eat $ADD:so-you $ADD:it $DEL:because-we-do
+	$DEL:those-kind-of-foods-before-serving-but-it's-not-really-suggested
+	$DIST = 2 $REP = 0.25
+*MAR:	you eat all the food that you bring with you and also drink it .
+%csr:	$EXA:you-eat $EXA:it
+	$ADD:all-the-food-that-you-bring-with-you-and-also-drink $DEL:so
+	$DIST = 1 $REP = 0.21
+%chi:	$EXA:eat $ADD:you
+	$ADD:all-the-food-that-you-bring-with-you-and-also-drink-it
+	$DEL:because-we-do
+	$DEL:those-kind-of-foods-before-serving-but-it's-not-really-suggested
+	$DIST = 3 $REP = 0.07
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	you want to see ?
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:you $ADD:want-to-see
+	$DEL:eat-all-the-food-that-you-bring-with-you-and-also-drink-it
+	$DIST = 2 $REP = 0.25
+*LEX:	I will show you the picture .
+%asr:	$EXA:you $ADD:I-will-show $ADD:the-picture $DEL:want-to-see $DIST =
+	1 $REP = 0.17
+%adu:	$EXA:you-the $ADD:I-will-show $ADD:picture $DEL:eat-all
+	$DEL:food-that-you-bring-with-you-and-also-drink-it $DIST = 3 $REP =
+	0.33
+*LEX:	it's like we do this one at home .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$EXA:yeah $EXACT $DIST = 1 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$EXA:yeah $EXACT $DIST = 1 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	I saw this one .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:this-one $ADD:I-saw $DEL:it's-like-we-do $DEL:at-home $DIST =
+	4 $REP = 0.50
+*LEX:	this one .
+%asr:	$EXA:this-one $DEL:it's-like-we-do $DEL:at-home $REDUC $DIST = 5
+	$REP = 1.00
+%adu:	$EXA:this-one $DEL:I-saw $REDUC $DIST = 1 $REP = 1.00
+*LEX:	yeah .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	we did something similar, but not a lot of food, just small things .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	and we left in the tomb .
+%csr:	$EXA:we $ADD:and $ADD:left-in-the-tomb
+	$DEL:did-something-similar-but-not-a-lot-of-food-just-small-things
+	$DIST = 1 $REP = 0.17
+%chi:	$NO_REP $REP = 0.00
+*MAR:	and for example, if it's a kind of drink, if that person likes a specific drink or specific, I don't know, brand or something +...
+%csr:	$EXA:and
+	$ADD:for-example-if-it's-a-kind-of-drink-if-that-person-likes-a-specific-drink-or-specific-I-don't-know-brand-or-something
+	$DEL:we-left-in-the-tomb $DIST = 1 $REP = 0.04
+%chi:	$NO_REP $REP = 0.00
+*LEX:	oh yeah, we also do that .
+%asr:	$EXA:yeah $ADD:oh $ADD:we-also-do-that $EXPAN $DIST = 4 $REP = 0.17
+%adu:	$EXA:that $ADD:oh-yeah-we-also-do
+	$DEL:and-for-example-if-it's-a-kind-of-drink-if
+	$DEL:person-likes-a-specific-drink-or-specific-I-don't-know-brand-or-something
+	$DIST = 1 $REP = 0.17
+*MAR:	but we leave it .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:we $ADD:but $ADD:leave-it $DEL:oh-yeah $DEL:also-do-that $DIST
+	= 1 $REP = 0.25
+*LEX:	we drink it .
+%asr:	$EXA:we $ADD:drink-it $DEL:oh-yeah $DEL:also-do-that $DIST = 2 $REP
+	= 0.33
+%adu:	$EXA:we $EXA:it $ADD:drink $DEL:but $DEL:leave $DIST = 1 $REP =
+	0.67
+*MAR:	no, we didn't drink because we thought that <this person> [//] the soul of this person is going to came to drink it .
+%csr:	$EXA:we $EXA:it $ADD:no
+	$ADD:didn't-drink-because-we-thought-that-this-person-the-soul-of-this-person-is-going-to-came-to-drink
+	$DEL:but $DEL:leave $DIST = 2 $REP = 0.09
+%chi:	$EXA:we $EXA:drink $EXA:it $ADD:no $ADD:didn't
+	$ADD:because-we-thought-that-this-person-the-soul-of-this-person-is-going-to-came-to-drink
+	$EXPAN $DIST = 1 $REP = 0.14
+*LEX:	yeah, us too .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	so we leave that .
+%csr:	$EXA:we $EXA:that $ADD:so $ADD:leave $DEL:no
+	$DEL:didn't-drink-because-we-thought
+	$DEL:this-person-the-soul-of-this-person-is-going-to-came-to-drink-it
+	$DIST = 2 $REP = 0.50
+%chi:	$NO_REP $REP = 0.00
+*LEX:	me too .
+%asr:	$EXA:too $ADD:me $DEL:yeah-us $DIST = 2 $REP = 0.50
+%adu:	$NO_REP $REP = 0.00
+*LEX:	like we also think like that, but like, that's different shit .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:we $EXA:that $ADD:like $ADD:also-think-like
+	$ADD:but-like-that's-different-shit $DEL:so $DEL:leave $DIST = 2
+	$REP = 0.18
+*LEX:	they will eat it and drink it, but that's what the spirit of the food .
+%asr:	$EXA:but-that's $ADD:they-will-eat-it-and-drink-it
+	$ADD:what-the-spirit-of-the-food $DEL:like-we-also-think-like-that
+	$DEL:like $DEL:different-shit $DIST = 1 $REP = 0.13
+%adu:	$NO_REP $REP = 0.00
+*MAR:	ah, okay .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	okay .
+%csr:	$EXA:okay $DEL:ah $REDUC $DIST = 1 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	very interesting .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	it's like we think that it's quite different .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	like the human food and then the ancestors .
+%asr:	$EXA:like $ADD:the-human-food-and-then-the-ancestors $DEL:it's
+	$DEL:we-think-that-it's-quite-different $DIST = 2 $REP = 0.12
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$EXA:yeah $EXACT $DIST = 2 $REP = 1.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	because you cannot see it .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah, of course .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	yeah, we don't place .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:yeah $ADD:we-don't-place $DEL:of-course $DIST = 1 $REP = 0.25
+*MAR:	we left the food there .
+%csr:	$EXA:we $ADD:left-the-food-there $DEL:yeah $DEL:don't-place $DIST =
+	1 $REP = 0.20
+%chi:	$NO_REP $REP = 0.00
+*MAR:	yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:yeah $DEL:of-course $REDUC $DIST = 3 $REP = 1.00
+*MAR:	sometimes when you go to the cemetery, like in Peru +...
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	of course, cockroaches will eat it .
+%asr:	$EXA:of-course $ADD:cockroaches-will-eat-it $DEL:yeah $DIST = 5
+	$REP = 0.33
+%adu:	$NO_REP $REP = 0.00
+*LEX:	right .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	and they're like, that's why we're putting it over .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$EXA:like $ADD:and-they're $ADD:that's-why-we're-putting-it-over
+	$DEL:sometimes-when-you-go-to-the-cemetery $DEL:in-Peru $DIST = 3
+	$REP = 0.11
+*MAR:	no .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	you can see like, there's a lot of things there .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:like $ADD:you-can-see $ADD:there's-a-lot-of-things-there
+	$DEL:and-they're $DEL:that's-why-we're-putting-it-over $DIST = 2
+	$REP = 0.10
+*MAR:	and also some toys .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$EXA:and $ADD:also-some-toys
+	$DEL:they're-like-that's-why-we're-putting-it-over $DIST = 3 $REP =
+	0.25
+*MAR:	people left some toys to the kids .
+%csr:	$EXA:some-toys $ADD:people-left $ADD:to-the-kids $DEL:and-also
+	$DIST = 1 $REP = 0.29
+%chi:	$NO_REP $REP = 0.00
+*LEX:	oh yeah, of course .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*LEX:	in that case, we leave it alone .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+*MAR:	ah, of course, you're not going to eat it .
+%csr:	$EXA:to $ADD:ah-of-course-you're-not-going $ADD:eat-it
+	$DEL:people-left-some-toys $DEL:the-kids $DIST = 3 $REP = 0.11
+%chi:	$EXA:it $ADD:ah-of-course-you're-not-going-to-eat
+	$DEL:in-that-case-we-leave $DEL:alone $DIST = 1 $REP = 0.11
+*MAR:	but yeah .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*MAR:	very interesting .
+%csr:	$NO_REP $REP = 0.00
+%chi:	$NO_REP $REP = 0.00
+*LEX:	yeah, that's it .
+%asr:	$EXA:it $ADD:yeah-that's $DEL:in-that-case-we-leave $DEL:alone
+	$DIST = 4 $REP = 0.33
+%adu:	$NO_REP $REP = 0.00
+*LEX:	yay .
+%asr:	$NO_REP $REP = 0.00
+%adu:	$NO_REP $REP = 0.00
+===========================================================
+File: holiday.cha
+
+Total LEX scored utterances: 114
+Total MAR scored utterances: 100
+
+Measure  	ADU	CHI	ASR	CSR
+-----------------------------------------------------------
+Responses	104	98	111	96
+Overlap  	30	35	50	47
+No_Overlap	74	63	61	49
+%_Overlap	0.263	0.350	0.439	0.470
+Avg_Dist	2.23	2.06	1.58	1.81
+Rep_Index	0.30	0.33	0.33	0.45
+ADD_OPS  	48	56	71	60
+DEL_OPS  	53	56	78	71
+EXA_OPS  	39	45	65	63
+%_ADD_OPS	0.34	0.36	0.33	0.31
+%_DEL_OPS	0.38	0.36	0.36	0.37
+%_EXA_OPS	0.28	0.29	0.30	0.32
+ADD_WORD	176	254	264	277
+DEL_WORD	213	217	255	287
+EXA_WORD	44	50	87	83
+%_ADD_WORDS	0.41	0.49	0.44	0.43
+%_DEL_WORDS	0.49	0.42	0.42	0.44
+%_EXA_WORDS	0.10	0.10	0.14	0.13
+MORPH_ADD	0	0	0	0
+MORPH_DEL	0	0	0	0
+MORPH_EXA	0	0	0	0
+MORPH_SUB	0	0	0	0
+%_MORPH_ADD	0.00	0.00	0.00	0.00
+%_MORPH_DEL	0.00	0.00	0.00	0.00
+%_MORPH_EXA	0.00	0.00	0.00	0.00
+%_MORPH_SUB	0.00	0.00	0.00	0.00
+AV_WORD_ADD	3.67	4.54	3.72	4.62
+AV_WORD_DEL	4.02	3.88	3.27	4.04
+AV_WORD_EXA	1.13	1.11	1.34	1.32
+IMITAT   	4	7	7	13
+%_IMITAT	0.035	0.070	0.061	0.130
+EXACT    	0	0	2	7
+EXPAN    	2	2	3	1
+REDUC    	2	5	2	5
+%_EXACT  	0.000	0.000	0.018	0.070
+%_EXPAN  	0.018	0.020	0.026	0.010
+%_REDUC  	0.018	0.050	0.018	0.050
