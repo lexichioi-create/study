@@ -205,6 +205,40 @@ def episode_of(line):
     return ""
 
 
+CATEGORY = {
+    **dict.fromkeys(["CR", "CC", "CMC"], "NOM"),
+    **dict.fromkeys(["SSR", "OC"], "REP"),
+    **dict.fromkeys(["WS", "APX", "CIRC", "APW", "CSW", "RES", "ABN", "MLC"], "CST"),
+    **dict.fromkeys(["MIN", "ASM", "AGR", "DIS", "COL", "CMP"], "INT"),
+    **dict.fromkeys(["TSK", "TOP", "QI", "CLS"], "ORG"),
+}
+CODED_HEADER = [
+    "@Comment:\tDiscourse codes on %cod as $CATEGORY:CODE. Utterance order is identical to data/holiday.cha; L numbers in README and holiday_coding.csv refer to that file.",
+    "@Comment:\tNOM = negotiation of meaning (CR CC CMC); REP = repair (SSR OC); CST = communication strategy (WS APX CIRC APW CSW RES ABN MLC); INT = interaction (MIN ASM AGR DIS COL CMP); ORG = discourse organization (TSK TOP QI CLS)",
+    "@Comment:\tEpisodes are lazy gems (@G). E0 task opening; E1 MAR Christmas; E2 role switch; E3 MAR Chuseok; E4 LEX Chuseok rites; E5 Coco and Mexico; E6 food left vs eaten; E7 photo and spirits' food; E8 Peru cemetery and closing",
+]
+
+
+def write_coded_cha(rows, path):
+    """원본 CHAT 파일에 @G 에피소드 경계와 %cod 코드 층위를 넣어 CLAN용 코딩 파일을 만든다."""
+    by_line = {r["line"]: r for r in rows}
+    starts = {start: name.split()[0] for start, _, name in EPISODES}
+    first_utt = min(by_line)
+    out = []
+    for n, raw in enumerate(CHA.read_text(encoding="utf-8").splitlines(), start=1):
+        if n == first_utt:
+            out += CODED_HEADER
+        if n in starts:
+            out.append(f"@G:\t{starts[n]}")
+        out.append(raw)
+        r = by_line.get(n)
+        if r:
+            codes = r["manual"] + [c for c in r["auto"] if c in ("MIN", "CSW")]
+            if codes:
+                out.append("%cod:\t" + " ".join(f"${CATEGORY[c]}:{c}" for c in codes))
+    path.write_text("\n".join(out) + "\n", encoding="utf-8")
+
+
 def main():
     rows = parse(CHA)
     OUT_DIR.mkdir(exist_ok=True)
@@ -223,6 +257,7 @@ def main():
         for r in rows:
             w.writerow([r["line"], r["speaker"], r["episode"], ";".join(r["manual"]),
                         ";".join(r["auto"]), r["words"], r["utt"]])
+    write_coded_cha(rows, OUT_DIR / "holiday_coded.cha")
 
     speakers = ["LEX", "MAR"]
     counts = {s: Counter() for s in speakers}

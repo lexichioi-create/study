@@ -1,0 +1,384 @@
+@UTF8
+@Begin
+@Languages:	eng, spa
+@Participants:	MAR Participant, LEX Participant
+@ID:	eng|holiday|MAR|||||Participant|||
+@ID:	eng|holiday|LEX|||||Participant|||
+@Situation:	two EFL learners talk about how they celebrate holidays
+@Comment:	Discourse codes on %cod as $CATEGORY:CODE. Utterance order is identical to data/holiday.cha; L numbers in README and holiday_coding.csv refer to that file.
+@Comment:	NOM = negotiation of meaning (CR CC CMC); REP = repair (SSR OC); CST = communication strategy (WS APX CIRC APW CSW RES ABN MLC); INT = interaction (MIN ASM AGR DIS COL CMP); ORG = discourse organization (TSK TOP QI CLS)
+@Comment:	Episodes are lazy gems (@G). E0 task opening; E1 MAR Christmas; E2 role switch; E3 MAR Chuseok; E4 LEX Chuseok rites; E5 Coco and Mexico; E6 food left vs eaten; E7 photo and spirits' food; E8 Peru cemetery and closing
+@G:	E0
+*LEX:	I will ask you, &-um, how does your family celebrate your holidays ?
+%cod:	$ORG:TSK $ORG:QI
+*MAR:	what kind of holiday ?
+%cod:	$NOM:CR
+*LEX:	oh, okay, so let's talk about a traditional holiday .
+*MAR:	ah, traditional holidays .
+@G:	E1
+*MAR:	I mean, we have a lot, but I mean, my favorite one, that [//] which one I would like to tell you, it's about Christmas .
+%cod:	$ORG:TOP
+*MAR:	and oh, yeah, for us, Christmas is very important, especially because we have a family culture, very strong .
+*MAR:	so family, it's really important for us .
+*MAR:	so, &-uh, yeah, in our case, in family, in Christmas, all the family get together in someone's house, like maybe in my house or my own house .
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	and <you have> [//] basically we try to do it Christmas funny .
+*LEX:	funny ?
+%cod:	$NOM:CR
+*LEX:	in a fun way, you mean ?
+%cod:	$NOM:CC
+*MAR:	yeah, yeah, yeah .
+%cod:	$INT:MIN
+*MAR:	because we try to play some games and also do the Secret_Santa .
+*MAR:	do you know Secret_Santa ?
+%cod:	$NOM:CMC
+*LEX:	what is that ?
+%cod:	$NOM:CR
+*LEX:	oh, like, yeah, Manito .
+*LEX:	here in Korea, we call that Manito .
+%cod:	$INT:CMP
+*MAR:	Manito ?
+%cod:	$NOM:CR
+*LEX:	yeah .
+%cod:	$INT:MIN
+*LEX:	I guess that's a French word .
+%cod:	$CST:MLC
+*LEX:	I thought, oh, your ex is French .
+*MAR:	he never told me about Manito .
+*LEX:	Manito is, I guess it's something like +//.
+%cod:	$CST:WS
+*LEX:	oh, bye Paula .
+*LEX:	I guess it's something like +...
+%cod:	$CST:WS
+*LEX:	wait, I don't know .
+%cod:	$CST:ABN
+*MAR:	Manito ?
+%cod:	$NOM:CR
+*LEX:	yeah .
+%cod:	$INT:MIN
+*LEX:	yeah, like, yeah, yeah, you have like to give a present to someone .
+%cod:	$CST:CIRC
+*MAR:	yeah, but you are secret .
+%cod:	$INT:COL
+*LEX:	yeah, yeah, <you don't> [//] the other person doesn't know that you are going to give him or her that present .
+%cod:	$INT:COL
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	and then we eat, like we eat turkey and also +...
+*LEX:	oh my God, seriously ?
+%cod:	$INT:ASM
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	and also panettone .
+*MAR:	I think it's like Italian panettone .
+*LEX:	do you know panettone in Italy ?
+%cod:	$NOM:CC
+*MAR:	yeah, we have the same .
+*MAR:	yeah, we also eat panettone, but in Spanish we said panettone, not panettone like Italian .
+%cod:	$CST:MLC
+*MAR:	and with hot chocolate .
+*MAR:	and then we have at twelve, we have the artificial fireworks .
+*MAR:	no, yeah, fireworks .
+%cod:	$REP:SSR
+*MAR:	and then we give presents .
+*MAR:	yeah, I mean, that's all that we did .
+%cod:	$ORG:CLS
+@G:	E2
+*LEX:	ask me .
+%cod:	$ORG:TSK
+*MAR:	yeah, what do you do ?
+%cod:	$ORG:QI
+*MAR:	what's your favorite holiday ?
+%cod:	$ORG:QI
+*MAR:	<how does your> [/] how does your family usually celebrate holidays ?
+%cod:	$ORG:QI
+*LEX:	what holidays ?
+%cod:	$NOM:CR
+*LEX:	actually, I was about to ask this question .
+%cod:	$ORG:TSK
+*LEX:	I was like, what are you curious about ?
+%cod:	$ORG:TSK
+*LEX:	about Chuseok ?
+%cod:	$ORG:TOP
+*LEX:	what did you do this Chuseok ?
+%cod:	$ORG:TOP $ORG:QI
+@G:	E3
+*MAR:	nothing .
+*LEX:	what ?
+%cod:	$NOM:CR
+*MAR:	no, in Chuseok, I just spend time with my friends, just going out .
+*MAR:	like, I don't know .
+*MAR:	we went to one of my friend's house to have lunch together and then take some pictures .
+*MAR:	and then, yeah, that's all .
+%cod:	$ORG:CLS
+@G:	E4
+*LEX:	because in our case, we actually go to like those graves .
+%cod:	$ORG:TOP $INT:CMP
+*LEX:	you know, those tombs, right ?
+%cod:	$NOM:CMC $CST:APX
+*LEX:	like, yeah, cemetery .
+%cod:	$REP:SSR
+*MAR:	yeah, go there .
+*LEX:	and then we do like this thing for Chuseok .
+%cod:	$CST:APW
+*LEX:	like, we have spirits, right ?
+%cod:	$NOM:CMC
+*LEX:	ancestors .
+%cod:	$REP:SSR
+*LEX:	do you know ?
+%cod:	$NOM:CMC
+*LEX:	did you know this ?
+%cod:	$NOM:CMC
+*MAR:	yeah .
+%cod:	$INT:MIN
+*LEX:	oh, yeah !
+%cod:	$INT:ASM $INT:MIN
+*LEX:	you learned this in Korean center ?
+%cod:	$ORG:QI
+*MAR:	kind of .
+*MAR:	but yeah, I know .
+*LEX:	like, we buy those kind of foods and then we cook like those kind of tempura, I don't know, like, if I'm supposed to say the Japanese word .
+%cod:	$CST:APX $CST:MLC
+*MAR:	but yeah, I know .
+*LEX:	and the Korean traditional foods that we serve to the ancestors .
+*MAR:	ah, so you go to the tomb and you give them the food ?
+%cod:	$NOM:CC
+*LEX:	yeah .
+%cod:	$INT:MIN
+*LEX:	and that, like, it's my grandmother and grandpa .
+*LEX:	like, they died .
+*LEX:	so like, they are in the cemetery .
+*LEX:	so like, we go there and then we pray .
+*LEX:	and then we like do the bow .
+*LEX:	do you know bow ?
+%cod:	$NOM:CMC
+*MAR:	yeah, yeah, yeah .
+%cod:	$INT:MIN
+*MAR:	the reverence .
+%cod:	$INT:COL $CST:APX
+*LEX:	yeah, yeah .
+%cod:	$INT:AGR $INT:MIN
+*LEX:	we do that .
+*LEX:	and then we meet our relatives .
+*LEX:	and we hang out and we drink with those kind of foods from those .
+%cod:	$CST:APW
+*LEX:	what do you call that ?
+%cod:	$CST:WS
+*LEX:	I forgot .
+%cod:	$CST:WS
+*LEX:	there is this term for it .
+%cod:	$CST:WS
+*LEX:	like, it's not ceremony .
+%cod:	$CST:WS $CST:APX
+*LEX:	what the fuck ?
+%cod:	$CST:WS
+*LEX:	it's like, I don't know .
+%cod:	$CST:WS
+*LEX:	but there is this English term to call that .
+%cod:	$CST:WS
+*LEX:	but I forgot .
+%cod:	$CST:WS
+*LEX:	yeah, we do that .
+*LEX:	like, it's like ritual .
+%cod:	$CST:APX
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	something like that .
+%cod:	$INT:AGR
+@G:	E5
+*MAR:	I think it's very similar to Mexican .
+%cod:	$ORG:TOP $INT:CMP
+*MAR:	did you see the movie Coco ?
+%cod:	$ORG:QI
+*LEX:	yeah .
+%cod:	$INT:MIN
+*LEX:	yeah .
+%cod:	$INT:MIN
+*LEX:	just some of them .
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	Coco has also like Mexican .
+*LEX:	but it's not that pretty .
+%cod:	$INT:DIS
+*LEX:	you know, it's like Asians different .
+%cod:	$INT:CMP
+*MAR:	it's like, yeah, yeah .
+%cod:	$INT:AGR
+*MAR:	but I mean, the fact that you go to the tomb and give food, I think it's very related to it .
+%cod:	$INT:CMP
+*MAR:	but of course, it's very different, like in some ways .
+%cod:	$INT:CMP
+*LEX:	yeah, because that's really ritual .
+%cod:	$INT:AGR
+*MAR:	in this case, it's quite different, I guess .
+%cod:	$INT:CMP
+*LEX:	yeah, yeah .
+%cod:	$INT:MIN
+*MAR:	I think it's different .
+%cod:	$INT:CMP
+@G:	E6
+*MAR:	but I didn't know that you go with food there .
+%cod:	$ORG:TOP
+*LEX:	yeah, of course we need to go with food .
+*LEX:	and then some soju .
+*MAR:	and you leave the food there ?
+%cod:	$NOM:CC
+*LEX:	no, we of course need to clean it up .
+*LEX:	we leave flowers .
+*MAR:	wait, and what did you do with the food ?
+%cod:	$ORG:QI
+*LEX:	we eat it .
+*LEX:	we believe that it is quite really, you know, good to eat those kind of foods .
+*LEX:	because after having the rituals, it's quite like, I don't know .
+%cod:	$CST:WS
+*LEX:	I don't know how to call it baptized .
+%cod:	$CST:WS $CST:APX
+*LEX:	what the fuck is that ?
+%cod:	$CST:WS
+*MAR:	you go with the food, like kind of to share and eat there with your +...
+%cod:	$NOM:CC $INT:COL
+*LEX:	yeah .
+%cod:	$INT:MIN
+*MAR:	oh, yeah, it's very different .
+%cod:	$INT:CMP
+*MAR:	because in Mexico and also in my country, we left the food there .
+%cod:	$INT:CMP
+*LEX:	but you're not from Mexico .
+%cod:	$REP:OC
+*MAR:	no, no .
+%cod:	$INT:MIN
+*MAR:	but in Peru, we also have that dates like that .
+*MAR:	I don't know how to say it in English .
+%cod:	$CST:WS $CST:MLC
+*MAR:	but in Spanish it's el@s:spa Día_de_los_Muertos@s:spa which is the day that we celebrate the people who left, who died .
+%cod:	$REP:SSR $CST:CSW
+*LEX:	yeah .
+%cod:	$INT:MIN
+*MAR:	but we left the food there .
+%cod:	$INT:CMP
+*LEX:	yeah .
+%cod:	$INT:MIN
+*LEX:	and in our case, we eat it .
+%cod:	$INT:CMP
+*LEX:	and then if there's like makgeolli, you haven't heard of makgeolli, right ?
+%cod:	$NOM:CMC
+*MAR:	yeah .
+%cod:	$INT:MIN
+*LEX:	we have the makgeolli .
+*LEX:	and then we serve makgeolli .
+*LEX:	and then if you drink the served makgeolli, it's kind of good because like that is a, I don't know .
+%cod:	$CST:WS
+*LEX:	wait, I'll search the term .
+%cod:	$CST:RES
+*LEX:	no .
+%cod:	$INT:MIN
+*LEX:	yeah, divine .
+%cod:	$CST:APX
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	yeah .
+%cod:	$INT:MIN
+*LEX:	something's like that because we did ritual in it .
+*MAR:	yeah .
+%cod:	$INT:MIN
+*LEX:	so we need to eat those foods .
+*LEX:	and before the ritual, you're not really allowed to eat .
+*LEX:	but of course, we do .
+*LEX:	because we do eat those kind of foods before serving, but it's not really suggested .
+*MAR:	wow .
+%cod:	$INT:MIN
+*MAR:	so you eat it .
+%cod:	$NOM:CC
+*MAR:	you eat all the food that you bring with you and also drink it .
+%cod:	$NOM:CC
+@G:	E7
+*LEX:	yeah .
+%cod:	$INT:MIN
+*LEX:	you want to see ?
+%cod:	$CST:RES
+*LEX:	I will show you the picture .
+%cod:	$CST:RES
+*LEX:	it's like we do this one at home .
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	I saw this one .
+*LEX:	this one .
+*LEX:	yeah .
+%cod:	$INT:MIN
+*MAR:	we did something similar, but not a lot of food, just small things .
+%cod:	$INT:CMP
+*MAR:	and we left in the tomb .
+*MAR:	and for example, if it's a kind of drink, if that person likes a specific drink or specific, I don't know, brand or something +...
+*LEX:	oh yeah, we also do that .
+%cod:	$INT:AGR
+*MAR:	but we leave it .
+%cod:	$INT:CMP
+*LEX:	we drink it .
+%cod:	$INT:CMP
+*MAR:	no, we didn't drink because we thought that <this person> [//] the soul of this person is going to came to drink it .
+%cod:	$INT:CMP
+*LEX:	yeah, us too .
+%cod:	$INT:AGR
+*MAR:	so we leave that .
+*LEX:	me too .
+%cod:	$INT:AGR
+*LEX:	like we also think like that, but like, that's different shit .
+%cod:	$INT:CMP
+*LEX:	they will eat it and drink it, but that's what the spirit of the food .
+%cod:	$CST:CIRC
+*MAR:	ah, okay .
+%cod:	$INT:MIN
+*MAR:	okay .
+%cod:	$INT:MIN
+*MAR:	very interesting .
+%cod:	$INT:ASM
+*LEX:	it's like we think that it's quite different .
+%cod:	$INT:CMP
+*MAR:	yeah .
+%cod:	$INT:MIN
+*LEX:	like the human food and then the ancestors .
+%cod:	$CST:CIRC
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	because you cannot see it .
+%cod:	$INT:COL
+*LEX:	yeah, of course .
+%cod:	$INT:AGR
+@G:	E8
+*MAR:	yeah, we don't place .
+*MAR:	we left the food there .
+%cod:	$INT:CMP
+*MAR:	yeah .
+%cod:	$INT:MIN
+*MAR:	sometimes when you go to the cemetery, like in Peru +...
+%cod:	$ORG:TOP
+*LEX:	of course, cockroaches will eat it .
+%cod:	$INT:COL
+*LEX:	right .
+%cod:	$INT:MIN
+*LEX:	and they're like, that's why we're putting it over .
+*MAR:	no .
+%cod:	$INT:DIS $INT:MIN
+*MAR:	you can see like, there's a lot of things there .
+*MAR:	and also some toys .
+*MAR:	people left some toys to the kids .
+*LEX:	oh yeah, of course .
+%cod:	$INT:AGR
+*LEX:	in that case, we leave it alone .
+*MAR:	ah, of course, you're not going to eat it .
+%cod:	$INT:COL
+*MAR:	but yeah .
+*MAR:	very interesting .
+%cod:	$INT:ASM
+*LEX:	yeah, that's it .
+%cod:	$ORG:CLS
+*LEX:	yay .
+%cod:	$ORG:CLS $INT:MIN
+@End

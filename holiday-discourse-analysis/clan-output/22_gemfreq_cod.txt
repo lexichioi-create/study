@@ -1,0 +1,88 @@
+gemfreq +n +se0 +se1 +se2 +se3 +se4 +se5 +se6 +se7 +se8 +t%cod -t* coding/holiday_coded.cha
+Wed Oct 14 10:23:04 2026
+gemfreq (21-Sep-2026) is conducting analyses on:
+  ONLY dependent tiers matching: %COD;
+  and ONLY header tiers matching: @G:;
+****************************************
+From file <holiday_coded.cha>
+1 202         2 tiers in gem "e0":
+      1 $nom:cr
+      1 $org:qi
+      1 $org:tsk
+ 26 tiers in gem "e1":
+      1 $cst:abn
+      1 $cst:circ
+      2 $cst:mlc
+      2 $cst:ws
+      1 $int:asm
+      1 $int:cmp
+      2 $int:col
+      6 $int:min
+      2 $nom:cc
+      1 $nom:cmc
+      4 $nom:cr
+      1 $org:cls
+      1 $org:top
+      1 $rep:ssr
+  9 tiers in gem "e2":
+      1 $nom:cr
+      4 $org:qi
+      2 $org:top
+      3 $org:tsk
+  2 tiers in gem "e3":
+      1 $nom:cr
+      1 $org:cls
+ 31 tiers in gem "e4":
+      2 $cst:apw
+      5 $cst:apx
+      1 $cst:mlc
+      8 $cst:ws
+      2 $int:agr
+      1 $int:asm
+      1 $int:cmp
+      1 $int:col
+      7 $int:min
+      1 $nom:cc
+      5 $nom:cmc
+      1 $org:qi
+      1 $org:top
+      2 $rep:ssr
+ 14 tiers in gem "e5":
+      2 $int:agr
+      6 $int:cmp
+      1 $int:dis
+      4 $int:min
+      1 $org:qi
+      1 $org:top
+ 30 tiers in gem "e6":
+      2 $cst:apx
+      1 $cst:csw
+      1 $cst:mlc
+      1 $cst:res
+      5 $cst:ws
+      4 $int:cmp
+      1 $int:col
+     10 $int:min
+      4 $nom:cc
+      1 $nom:cmc
+      1 $org:qi
+      1 $org:top
+      1 $rep:oc
+      1 $rep:ssr
+ 25 tiers in gem "e7":
+      2 $cst:circ
+      2 $cst:res
+      4 $int:agr
+      1 $int:asm
+      6 $int:cmp
+      1 $int:col
+      9 $int:min
+ 11 tiers in gem "e8":
+      1 $int:agr
+      1 $int:asm
+      1 $int:cmp
+      2 $int:col
+      1 $int:dis
+      4 $int:min
+      2 $org:cls
+      1 $org:top

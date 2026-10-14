@@ -1,0 +1,37 @@
+freq +t*LEX +t%cod -t* +o coding/holiday_coded.cha
+Wed Oct 14 10:22:55 2026
+freq (21-Sep-2026) is conducting analyses on:
+  ONLY dependent tiers matching: %COD;
+****************************************
+From file <holiday_coded.cha>
+11 213 	  Speaker: *LEX:
+ 16 $INT:MIN
+ 14 $CST:WS
+  7 $INT:AGR
+  7 $INT:CMP
+  6 $CST:APX
+  6 $NOM:CMC
+  4 $NOM:CR
+  4 $ORG:TSK
+  3 $CST:CIRC
+  3 $CST:RES
+  3 $ORG:QI
+  3 $ORG:TOP
+  2 $CST:APW
+  2 $CST:MLC
+  2 $INT:ASM
+  2 $INT:COL
+  2 $NOM:CC
+  2 $ORG:CLS
+  2 $REP:SSR
+  1 $CST:ABN
+  1 $INT:DIS
+  1 $REP:OC
+------------------------------
+   22  Total number of different item types used
+   93  Total number of items (tokens)
+0.237  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+

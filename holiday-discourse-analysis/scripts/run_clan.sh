@@ -34,4 +34,11 @@ run 15_chip_summary   "$CLAN_BIN/chip +bLEX +cMAR -t%mor +d1 $F"
 run 16_chip_coded     "$CLAN_BIN/chip +bLEX +cMAR -t%mor -f $F"
 run 17_combo_ofcourse "$CLAN_BIN/combo +s\"of^course\" $F"
 run 18_combo_idontknow "$CLAN_BIN/combo +s\"I^don't^know\" $F"
+# 담화 코딩 파일(coding/holiday_coded.cha, scripts/discourse_coding.py가 생성)의 %cod 코드 집계
+C=coding/holiday_coded.cha
+run 19_check_coded      "$CLAN_BIN/check $C"
+run 20_freq_cod_LEX     "$CLAN_BIN/freq +t*LEX +t%cod -t* +o $C"
+run 21_freq_cod_MAR     "$CLAN_BIN/freq +t*MAR +t%cod -t* +o $C"
+# 에피소드(@G)별 코드 빈도: +n은 다음 @G까지를 한 에피소드로 본다
+run 22_gemfreq_cod      "$CLAN_BIN/gemfreq +n +sE0 +sE1 +sE2 +sE3 +sE4 +sE5 +sE6 +sE7 +sE8 +t%cod -t* $C"
 echo "done: $(ls "$OUT" | wc -l) files in $OUT/"

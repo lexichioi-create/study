@@ -1,6 +1,6 @@
 # 담화 분석: 두 EFL 학습자의 명절 대화 (CHAT/CLAN)
 
-> 자료: [`data/holiday.cha`](data/holiday.cha) · CLAN 원출력: [`clan-output/`](clan-output/) · 발화별 코딩: [`coding/holiday_coding.csv`](coding/holiday_coding.csv) · 자동 요약표: [`coding/summary.md`](coding/summary.md)
+> 자료: [`data/holiday.cha`](data/holiday.cha) · CLAN 원출력: [`clan-output/`](clan-output/) · 코딩된 CLAN 파일: [`coding/holiday_coded.cha`](coding/holiday_coded.cha) · 발화별 코딩 표: [`coding/holiday_coding.csv`](coding/holiday_coding.csv) · 자동 요약표: [`coding/summary.md`](coding/summary.md)
 > 분석일: 2026-10-14 · 도구: Unix CLAN (21-Sep-2026 빌드) + Python 코딩 스크립트
 
 **TL;DR:** 두 화자의 참여량은 거의 대칭적이지만(발화권 46 대 45, 단어 656 대 626), 담화 역할은 에피소드마다 "설명자/청자"로 교대된다. 의미 협상 21건은 역할을 따라 갈린다. 설명자 LEX는 이해 점검(6/7)을, 청자 MAR는 확인 점검(5/7)을 주로 쓴다. LEX의 긴 어휘 탐색 세 차례는 모두 근사어로 끝나고 MAR가 그대로 수용한다. 전사본은 CLAN CHECK를 통과했지만, 중복 의심 발화·끼어들기 기호·비언어 맥락 누락 등 보완할 점이 6가지 남아 있다(8절).
@@ -71,6 +71,10 @@ CLAN은 TalkBank의 CHAT 전사 분석 도구이며, 이 분석은 Unix 소스�
 | 상호작용 | MIN, ASM, AGR, DIS, COL, CMP | 최소 반응, 평가, 동의·정렬, 불일치, 공동 완성, 문화 비교 | Pickering & Garrod (2004) 외 |
 | 담화 구조 | TSK, TOP, QI, CLS | 과제·발화권 관리, 화제 개시·전환, 정보 질문, 종결 | Sacks et al. (1974) |
 
+- **코딩된 CLAN 파일**: [`coding/holiday_coded.cha`](coding/holiday_coded.cha)에는 발화마다 `%cod:` 층위(`$범주:코드`, 예: `$NOM:CR`)와 에피소드 경계(`@G: E0`–`E8`)가 들어 있다. CHECK를 통과했다. [사실]
+  - 화자별 코드 빈도: `freq +t*LEX +t%cod -t* +o coding/holiday_coded.cha`
+  - 에피소드별 코드 빈도: `gemfreq +n +sE0 … +sE8 +t%cod -t* coding/holiday_coded.cha`
+  - CLAN 집계 결과(`clan-output/20`–`22`)는 스크립트 요약표와 일치한다. [사실]
 - **발화권(turn)**: 화자가 바뀌는 지점마다 새 발화권으로 셌다. CLAN MLT의 집계(46/45)와 일치한다. [사실]
 - **신뢰도**: 코더는 1인이다. 2차 코더 검증은 하지 않았다(10절).
 
@@ -297,7 +301,7 @@ CHECK는 형식 오류만 잡는다. 아래는 형식은 맞지만 분석 타당
 curl -L -o unix-clan.zip https://dali.talkbank.org/clan/unix-clan.zip && unzip unix-clan.zip
 cd unix-clan/src
 #   makefile: "for Ubuntu" CFLAGS 줄 주석 해제, LIB = -lncurses 로 변경, ../unix/obj/*.o 와 ../unix/bin/* 의 macOS 바이너리 삭제
-make check freq mlu mlt kwal chip maxwd combo vocd
+make check freq mlu mlt kwal chip maxwd combo vocd gem gemfreq
 
 # 2) 분석 실행 (이 폴더에서)
 CLAN_BIN=/path/to/unix-clan/unix/bin ./scripts/run_clan.sh
