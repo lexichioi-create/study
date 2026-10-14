@@ -1,5 +1,5 @@
 freq +t*LEX +o data/holiday.cha
-Wed Oct 14 10:08:27 2026
+Wed Oct 14 10:11:14 2026
 freq (21-Sep-2026) is conducting analyses on:
   ONLY speaker main tiers matching: *LEX;
 ****************************************
@@ -106,7 +106,7 @@ From file <holiday.cha>
   1 Japanese
   1 Korea
   1 Mexico
-  1 Sofia
+  1 Paula
   1 after
   1 allowed
   1 alone
@@ -126,9 +126,9 @@ From file <holiday.cha>
   1 divine
   1 does
   1 doesn't
+  1 ex
   1 family
   1 flowers
-  1 friend
   1 fun
   1 funny
   1 going

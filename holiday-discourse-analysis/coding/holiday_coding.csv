@@ -20,10 +20,10 @@ line,speaker,episode,manual_codes,auto_codes,words,utterance
 26,MAR,E1 MAR의 크리스마스(페루),CR,Q,1,Manito ?
 27,LEX,E1 MAR의 크리스마스(페루),,MIN,1,yeah .
 28,LEX,E1 MAR의 크리스마스(페루),MLC,,6,I guess that's a French word .
-29,LEX,E1 MAR의 크리스마스(페루),,,7,"I thought, oh, your friend is French ."
+29,LEX,E1 MAR의 크리스마스(페루),,,7,"I thought, oh, your ex is French ."
 30,MAR,E1 MAR의 크리스마스(페루),,,6,he never told me about Manito .
 31,LEX,E1 MAR의 크리스마스(페루),WS,SELFINT,7,"Manito is, I guess it's something like +//."
-32,LEX,E1 MAR의 크리스마스(페루),,,3,"oh, bye Sofia ."
+32,LEX,E1 MAR의 크리스마스(페루),,,3,"oh, bye Paula ."
 33,LEX,E1 MAR의 크리스마스(페루),WS,TRAIL,5,I guess it's something like +...
 34,LEX,E1 MAR의 크리스마스(페루),ABN,,4,"wait, I don't know ."
 35,MAR,E1 MAR의 크리스마스(페루),CR,Q,1,Manito ?

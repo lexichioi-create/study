@@ -33,10 +33,9 @@
 | 상황 | "two EFL learners talk about how they celebrate holidays" (`@Situation`) |
 | 언어 | `@Languages: eng, spa` |
 | 발화 수 | 214 (LEX 114, MAR 100) |
-| 공개 사본 처리 | L29, L32 가명 처리 (8절) |
 | 화자 배경(발화 근거) | MAR: 페루(L144–147 "in my country… in Peru") · LEX: 한국(L25 "here in Korea, we call that Manito") |
 
-- LEX는 MAR의 사적 정보를 아는 사이다(L29–30). [사실] 관계의 성격은 알 수 없다.
+- 두 화자는 대화 전부터 아는 사이로 보인다(L29–30). [추론: 중] 관계의 성격은 알 수 없다.
 
 ### 2.2 CLAN 분석 절차
 
@@ -82,7 +81,7 @@ CLAN은 TalkBank의 CHAT 전사 분석 도구이며, 이 분석은 Unix 소스�
 | 발화 수 | 114 | 100 | MLU |
 | 단어(토큰) | 656 | 626 | FREQ |
 | 유형(type) / TTR | 189 / 0.288 | 179 / 0.286 | FREQ |
-| VOCD D | 53.32 | 57.07 | VOCD |
+| VOCD D | 53.47 | 57.20 | VOCD |
 | MLU (단어, SD) | 5.75 (4.42) | 6.26 (5.75) | MLU `-t%mor` |
 | 발화권 | 46 | 45 | MLT |
 | 발화권당 단어 / 발화 | 14.26 / 2.48 | 13.91 / 2.22 | MLT |
@@ -95,7 +94,7 @@ CLAN은 TalkBank의 CHAT 전사 분석 도구이며, 이 분석은 Unix 소스�
 | `@s:spa` 코드 전환 발화 | 0 | 1 (L149) | KWAL |
 
 - **양은 대칭, 형태는 비대칭**: 총량은 비슷하다. LEX는 짧은 발화와 질문이 많고, MAR는 더 길게 말하며 최소 반응을 더 많이 낸다. [사실] [추론: 중]
-- **어휘 다양도**: D 차이(약 3.7)는 작다. VOCD는 무작위 표본 추출이라 실행마다 ±1 정도 변한다(다른 실행: 54.07 / 57.27, 53.23 / 56.70). [사실] 이 정도 차이에 해석적 의미를 두기는 어렵다. [추론: 중]
+- **어휘 다양도**: D 차이(약 3.7)는 작다. VOCD는 무작위 표본 추출이라 실행마다 ±1 정도 변한다(다른 실행: 54.07 / 57.27, 53.23 / 56.70, 53.32 / 57.07). [사실] 이 정도 차이에 해석적 의미를 두기는 어렵다. [추론: 중]
 - **VOCD 토큰 수 차이**: VOCD 토큰(658/634)은 FREQ(656/626)보다 많다. VOCD 출력에는 `[//]`·`[/]`로 고쳐진 원래 표현(`you have`, `this person` 등)이 들어 있고, 그 단어 수가 차이(LEX 2, MAR 8)와 정확히 맞는다. [사실]
 - **고빈도 표지**: `like` LEX 34 / MAR 14, `yeah` LEX 31 / MAR 40, `of course` LEX 6 / MAR 2, `I don't know` LEX 6 / MAR 3. [사실]
 
@@ -151,9 +150,11 @@ L22 *MAR: do you know Secret_Santa ?          ← 이해 점검
 L23 *LEX: what is that ?                      ← 명료화 요청
 L24 *LEX: oh, like, yeah, Manito .            ← 자기 해결 + 한국어 대응어
 L26 *MAR: Manito ?                            ← 명료화 요청 (반복형)
-L28 *LEX: I guess that's a French word .      ← 메타언어 논평 (이후 L29–30 사적 화제로 이탈)
+L28 *LEX: I guess that's a French word .      ← 메타언어 논평
+L29 *LEX: I thought, oh, your ex is French .   ← 짧은 부연 (L29–30)
+L30 *MAR: he never told me about Manito .
 L31 *LEX: Manito is, I guess it's something like +//.
-L32       (제3자에게 건넨 인사로 중단)
+L32 *LEX: oh, bye Paula .                     ← 설명 중단
 L33 *LEX: I guess it's something like +...
 L34 *LEX: wait, I don't know .                ← 메시지 포기
 L35 *MAR: Manito ?                            ← 명료화 재요청
@@ -271,11 +272,10 @@ CHECK는 형식 오류만 잡는다. 아래는 형식은 맞지만 분석 타당
 | 2 | L48 `in Spanish we said panettone, not panettone like Italian`에서 대조가 사라짐 | 철자를 이탈리아어로 통일 | `panetón@s:spa` 등 실제 발음형으로 전사하거나 `%pho:`/`%com:` 추가 | 발음 대조 발화는 철자 통일 금지 |
 | 3 | L41, L207의 `+...` 뒤에 상대 발화가 바로 이어짐 | 상대가 끊었는지 스스로 흐렸는지 구분이 없음 | 상대가 끊었으면 `+/.`, 이어 말하기는 `+,` 사용 | 겹침은 `[>]`/`[<]` 표기 |
 | 4 | `Chuseok`, `makgeolli`, `soju`, `Manito`에 언어 표지 없음 | `@Languages`에 kor 없음 | 표기 정책을 정한 뒤 일관 적용. 표지하려면 `@Languages`에 kor을 추가하고 `@s:kor` 사용 | 차용어 처리 규칙을 전사 지침에 명시 |
-| 5 | 사진(L174–182)·검색(L159)·제3자 인사(L32)의 맥락 없음. `this one`의 지시 대상 복원 불가 | 비언어 층위 미전사 | `%act:`/`%com:`/`%add:` 층위 추가 | 영상 기반 전사, `@Media`와 시간 정보 연결 |
+| 5 | 사진(L174–182)·검색(L159)의 맥락 없음. `this one`의 지시 대상 복원 불가 | 비언어 층위 미전사 | `%act:`/`%com:` 층위 추가 | 영상 기반 전사, `@Media`와 시간 정보 연결 |
 | 6 | `%mor` 없음 → 형태소 MLU·품사 분석 불가 | MOR 미실행 | `mor` 실행(후속 `post`)으로 `%mor` 생성 | CHECK 직후 MOR 실행을 표준 절차로 |
 
 - **선택적 검토**: L50 `and then we have at twelve, we have the artificial fireworks`의 `we have` 반복은 `[/]` 코딩 후보다. 음성으로 확인할 필요가 있다.
-- **익명화**: 저장소의 `data/holiday.cha`는 공개용으로 가명 처리한 사본이다. L32의 제3자 이름과 L29의 사적 정보를 가명으로 바꿨고, 파일 끝 `@Comment`에 기록했다. 단어·유형 수와 줄 번호는 원본과 같으며, 원본은 저장소에 올리지 않았다.
 
 ## 9. 교육적 시사점
 

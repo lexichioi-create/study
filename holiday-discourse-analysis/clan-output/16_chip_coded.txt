@@ -1,5 +1,5 @@
 chip +bLEX +cMAR -t%mor -f data/holiday.cha
-Wed Oct 14 10:08:28 2026
+Wed Oct 14 10:11:15 2026
 chip (21-Sep-2026) is conducting analyses on:
   ALL speaker tiers
 ****************************************
@@ -94,9 +94,9 @@ From file <holiday.cha>
 *LEX:	I guess that's a French word .
 %asr:	$NO_REP $REP = 0.00
 %adu:	$NO_REP $REP = 0.00
-*LEX:	I thought, oh, your friend is French .
-%asr:	$EXA:I $EXA:French $ADD:thought-oh-your-friend-is
-	$DEL:guess-that's-a $DEL:word $DIST = 1 $REP = 0.29
+*LEX:	I thought, oh, your ex is French .
+%asr:	$EXA:I $EXA:French $ADD:thought-oh-your-ex-is $DEL:guess-that's-a
+	$DEL:word $DIST = 1 $REP = 0.29
 %adu:	$NO_REP $REP = 0.00
 *MAR:	he never told me about Manito .
 %csr:	$EXA:Manito $ADD:he-never-told-me-about $EXPAN $DIST = 4 $REP =
@@ -104,10 +104,10 @@ From file <holiday.cha>
 %chi:	$NO_REP $REP = 0.00
 *LEX:	Manito is, I guess it's something like +//.
 %asr:	$EXA:is-I $ADD:Manito $ADD:guess-it's-something-like
-	$DEL:thought-oh-your-friend $DEL:French $DIST = 2 $REP = 0.29
+	$DEL:thought-oh-your-ex $DEL:French $DIST = 2 $REP = 0.29
 %adu:	$EXA:Manito $ADD:is-I-guess-it's-something-like
 	$DEL:he-never-told-me-about $DIST = 1 $REP = 0.14
-*LEX:	oh, bye Sofia .
+*LEX:	oh, bye Paula .
 %asr:	$NO_REP $REP = 0.00
 %adu:	$NO_REP $REP = 0.00
 *LEX:	I guess it's something like +...
