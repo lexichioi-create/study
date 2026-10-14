@@ -1,0 +1,105 @@
+kwal +s? data/holiday.cha
+Wed Oct 14 10:08:28 2026
+kwal (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+----------------------------------------
+*** File "holiday.cha": line 7. Keyword: ? 
+*LEX:	I will ask you, &-um, how does your family celebrate your holidays ?
+----------------------------------------
+*** File "holiday.cha": line 8. Keyword: ? 
+*MAR:	what kind of holiday ?
+----------------------------------------
+*** File "holiday.cha": line 17. Keyword: ? 
+*LEX:	funny ?
+----------------------------------------
+*** File "holiday.cha": line 18. Keyword: ? 
+*LEX:	in a fun way, you mean ?
+----------------------------------------
+*** File "holiday.cha": line 21. Keyword: ? 
+*MAR:	do you know Secret_Santa ?
+----------------------------------------
+*** File "holiday.cha": line 22. Keyword: ? 
+*LEX:	what is that ?
+----------------------------------------
+*** File "holiday.cha": line 25. Keyword: ? 
+*MAR:	Manito ?
+----------------------------------------
+*** File "holiday.cha": line 34. Keyword: ? 
+*MAR:	Manito ?
+----------------------------------------
+*** File "holiday.cha": line 41. Keyword: ? 
+*LEX:	oh my God, seriously ?
+----------------------------------------
+*** File "holiday.cha": line 45. Keyword: ? 
+*LEX:	do you know panettone in Italy ?
+----------------------------------------
+*** File "holiday.cha": line 54. Keyword: ? 
+*MAR:	yeah, what do you do ?
+----------------------------------------
+*** File "holiday.cha": line 55. Keyword: ? 
+*MAR:	what's your favorite holiday ?
+----------------------------------------
+*** File "holiday.cha": line 56. Keyword: ? 
+*MAR:	<how does your> [/] how does your family usually celebrate holidays ?
+----------------------------------------
+*** File "holiday.cha": line 57. Keyword: ? 
+*LEX:	what holidays ?
+----------------------------------------
+*** File "holiday.cha": line 59. Keyword: ? 
+*LEX:	I was like, what are you curious about ?
+----------------------------------------
+*** File "holiday.cha": line 60. Keyword: ? 
+*LEX:	about Chuseok ?
+----------------------------------------
+*** File "holiday.cha": line 61. Keyword: ? 
+*LEX:	what did you do this Chuseok ?
+----------------------------------------
+*** File "holiday.cha": line 63. Keyword: ? 
+*LEX:	what ?
+----------------------------------------
+*** File "holiday.cha": line 69. Keyword: ? 
+*LEX:	you know, those tombs, right ?
+----------------------------------------
+*** File "holiday.cha": line 73. Keyword: ? 
+*LEX:	like, we have spirits, right ?
+----------------------------------------
+*** File "holiday.cha": line 75. Keyword: ? 
+*LEX:	do you know ?
+----------------------------------------
+*** File "holiday.cha": line 76. Keyword: ? 
+*LEX:	did you know this ?
+----------------------------------------
+*** File "holiday.cha": line 79. Keyword: ? 
+*LEX:	you learned this in Korean center ?
+----------------------------------------
+*** File "holiday.cha": line 85. Keyword: ? 
+*MAR:	ah, so you go to the tomb and you give them the food ?
+----------------------------------------
+*** File "holiday.cha": line 92. Keyword: ? 
+*LEX:	do you know bow ?
+----------------------------------------
+*** File "holiday.cha": line 99. Keyword: ? 
+*LEX:	what do you call that ?
+----------------------------------------
+*** File "holiday.cha": line 103. Keyword: ? 
+*LEX:	what the fuck ?
+----------------------------------------
+*** File "holiday.cha": line 113. Keyword: ? 
+*MAR:	did you see the movie Coco ?
+----------------------------------------
+*** File "holiday.cha": line 131. Keyword: ? 
+*MAR:	and you leave the food there ?
+----------------------------------------
+*** File "holiday.cha": line 134. Keyword: ? 
+*MAR:	wait, and what did you do with the food ?
+----------------------------------------
+*** File "holiday.cha": line 139. Keyword: ? 
+*LEX:	what the fuck is that ?
+----------------------------------------
+*** File "holiday.cha": line 153. Keyword: ? 
+*LEX:	and then if there's like makgeolli, you haven't heard of makgeolli, right ?
+----------------------------------------
+*** File "holiday.cha": line 173. Keyword: ? 
+*LEX:	you want to see ?

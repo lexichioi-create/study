@@ -1,0 +1,23 @@
+maxwd -t%mor +g2 +c5 data/holiday.cha
+Wed Oct 14 10:08:27 2026
+maxwd (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+*** File "holiday.cha": line 82:     Number of chosen words 28. 
+*LEX:	like, we buy those kind of foods and then we cook like those kind
+	of tempura, I don't know, like, if I'm supposed to say the Japanese
+	word .
+*** File "holiday.cha": line 14:     Number of chosen words 26. 
+*MAR:	so, &-uh, yeah, in our case, in family, in Christmas, all the
+	family get together in someone's house, like maybe in my house or my
+	own house .
+*** File "holiday.cha": line 184:     Number of chosen words 24. 
+*MAR:	and for example, if it's a kind of drink, if that person likes a
+	specific drink or specific, I don't know, brand or something +...
+*** File "holiday.cha": line 11:     Number of chosen words 23. 
+*MAR:	I mean, we have a lot, but I mean, my favorite one, that [//] which
+	one I would like to tell you, it's about Christmas .
+*** File "holiday.cha": line 122:     Number of chosen words 21. 
+*MAR:	but I mean, the fact that you go to the tomb and give food, I think
+	it's very related to it .

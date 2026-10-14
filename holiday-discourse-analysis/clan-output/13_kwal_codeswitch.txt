@@ -1,0 +1,9 @@
+kwal +s*@s:spa data/holiday.cha
+Wed Oct 14 10:08:28 2026
+kwal (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+----------------------------------------
+*** File "holiday.cha": line 148. Keywords: el@s:spa, día_de_los_muertos@s:spa 
+*MAR:	but in Spanish it's el@s:spa Día_de_los_Muertos@s:spa which is the day that we celebrate the people who left, who died .

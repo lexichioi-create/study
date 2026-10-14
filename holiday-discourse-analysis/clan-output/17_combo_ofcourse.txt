@@ -1,0 +1,34 @@
+of^course
+combo +sof^course data/holiday.cha
+Wed Oct 14 10:08:28 2026
+combo (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+----------------------------------------
+*** File "holiday.cha": line 123.
+*MAR:	but (1)of (1)course , it's very different , like in some ways .
+----------------------------------------
+*** File "holiday.cha": line 129.
+*LEX:	yeah , (1)of (1)course we need to go with food .
+----------------------------------------
+*** File "holiday.cha": line 132.
+*LEX:	no , we (1)of (1)course need to clean it up .
+----------------------------------------
+*** File "holiday.cha": line 167.
+*LEX:	but (1)of (1)course , we do .
+----------------------------------------
+*** File "holiday.cha": line 202.
+*LEX:	yeah , (1)of (1)course .
+----------------------------------------
+*** File "holiday.cha": line 207.
+*LEX:	(1)of (1)course , cockroaches will eat it .
+----------------------------------------
+*** File "holiday.cha": line 214.
+*LEX:	oh yeah , (1)of (1)course .
+----------------------------------------
+*** File "holiday.cha": line 216.
+*MAR:	ah , (1)of (1)course , you're not going to eat it .
+
+    Strings matched 8 times
+

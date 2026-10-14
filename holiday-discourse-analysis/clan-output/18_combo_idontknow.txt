@@ -1,0 +1,37 @@
+i^don't^know
+combo +s"I^don't^know" data/holiday.cha
+Wed Oct 14 10:08:28 2026
+combo (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+----------------------------------------
+*** File "holiday.cha": line 33.
+*LEX:	wait , (1)I (1)don't (1)know .
+----------------------------------------
+*** File "holiday.cha": line 65.
+*MAR:	like , (1)I (1)don't (1)know .
+----------------------------------------
+*** File "holiday.cha": line 82.
+*LEX:	like , we buy those kind of foods and then we cook like those kind of tempura , (1)I (1)don't (1)know , like , if I'm supposed to say the Japanese word .
+----------------------------------------
+*** File "holiday.cha": line 104.
+*LEX:	it's like , (1)I (1)don't (1)know .
+----------------------------------------
+*** File "holiday.cha": line 137.
+*LEX:	because after having the rituals , it's quite like , (1)I (1)don't (1)know .
+----------------------------------------
+*** File "holiday.cha": line 138.
+*LEX:	(1)I (1)don't (1)know how to call it baptized .
+----------------------------------------
+*** File "holiday.cha": line 147.
+*MAR:	(1)I (1)don't (1)know how to say it in English .
+----------------------------------------
+*** File "holiday.cha": line 157.
+*LEX:	and then if you drink the served makgeolli , it's kind of good because like that is a , (1)I (1)don't (1)know .
+----------------------------------------
+*** File "holiday.cha": line 184.
+*MAR:	and for example , if it's a kind of drink , if that person likes a specific drink or specific , (1)I (1)don't (1)know , brand or something +...
+
+    Strings matched 9 times
+

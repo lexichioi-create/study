@@ -1,0 +1,21 @@
+kwal +s[//] +s[/] data/holiday.cha
+Wed Oct 14 10:08:27 2026
+kwal (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+----------------------------------------
+*** File "holiday.cha": line 11. Keyword: [//] 
+*MAR:	I mean, we have a lot, but I mean, my favorite one, that [//] which one I would like to tell you, it's about Christmas .
+----------------------------------------
+*** File "holiday.cha": line 16. Keyword: [//] 
+*MAR:	and <you have> [//] basically we try to do it Christmas funny .
+----------------------------------------
+*** File "holiday.cha": line 38. Keyword: [//] 
+*LEX:	yeah, yeah, <you don't> [//] the other person doesn't know that you are going to give him or her that present .
+----------------------------------------
+*** File "holiday.cha": line 56. Keyword: [/] 
+*MAR:	<how does your> [/] how does your family usually celebrate holidays ?
+----------------------------------------
+*** File "holiday.cha": line 188. Keyword: [//] 
+*MAR:	no, we didn't drink because we thought that <this person> [//] the soul of this person is going to came to drink it .

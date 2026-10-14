@@ -1,0 +1,363 @@
+vocd -t%mor data/holiday.cha
+Wed Oct 14 10:08:27 2026
+vocd (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+    and those speakers' ALL dependent tiers EXCEPT the ones matching: %MOR;
+****************************************
+From file <holiday.cha>
+1 202 	  ****** Speaker: *LEX:
+I will ask you how does your family celebrate your holidays 
+oh okay so let's talk about a traditional holiday 
+funny 
+in a fun way you mean 
+what is that 
+oh like yeah Manito 
+here in Korea we call that Manito 
+yeah 
+I guess that's a French word 
+I thought oh your friend is French 
+Manito is I guess it's something like 
+oh bye Sofia 
+I guess it's something like 
+wait I don't know 
+yeah 
+yeah like yeah yeah you have like to give a present to someone 
+yeah yeah you don't the other person doesn't know that you are going to give him or her that present 
+oh my God seriously 
+do you know panettone in Italy 
+ask me 
+what holidays 
+actually I was about to ask this question 
+I was like what are you curious about 
+about Chuseok 
+what did you do this Chuseok 
+what 
+because in our case we actually go to like those graves 
+you know those tombs right 
+like yeah cemetery 
+and then we do like this thing for Chuseok 
+like we have spirits right 
+ancestors 
+do you know 
+did you know this 
+oh yeah 
+you learned this in Korean center 
+like we buy those kind of foods and then we cook like those kind of tempura I don't know like if I'm supposed to say the Japanese word 
+and the Korean traditional foods that we serve to the ancestors 
+yeah 
+and that like it's my grandmother and grandpa 
+like they died 
+so like they are in the cemetery 
+so like we go there and then we pray 
+and then we like do the bow 
+do you know bow 
+yeah yeah 
+we do that 
+and then we meet our relatives 
+and we hang out and we drink with those kind of foods from those 
+what do you call that 
+I forgot 
+there is this term for it 
+like it's not ceremony 
+what the fuck 
+it's like I don't know 
+but there is this English term to call that 
+but I forgot 
+yeah we do that 
+like it's like ritual 
+yeah 
+yeah 
+just some of them 
+but it's not that pretty 
+you know it's like Asians different 
+yeah because that's really ritual 
+yeah yeah 
+yeah of course we need to go with food 
+and then some soju 
+no we of course need to clean it up 
+we leave flowers 
+we eat it 
+we believe that it is quite really you know good to eat those kind of foods 
+because after having the rituals it's quite like I don't know 
+I don't know how to call it baptized 
+what the fuck is that 
+yeah 
+but you're not from Mexico 
+yeah 
+yeah 
+and in our case we eat it 
+and then if there's like makgeolli you haven't heard of makgeolli right 
+we have the makgeolli 
+and then we serve makgeolli 
+and then if you drink the served makgeolli it's kind of good because like that is a I don't know 
+wait I'll search the term 
+no 
+yeah divine 
+something's like that because we did ritual in it 
+so we need to eat those foods 
+and before the ritual you're not really allowed to eat 
+but of course we do 
+because we do eat those kind of foods before serving but it's not really suggested 
+yeah 
+you want to see 
+I will show you the picture 
+it's like we do this one at home 
+this one 
+yeah 
+oh yeah we also do that 
+we drink it 
+yeah us too 
+me too 
+like we also think like that but like that's different shit 
+they will eat it and drink it but that's what the spirit of the food 
+it's like we think that it's quite different 
+like the human food and then the ancestors 
+yeah of course 
+of course cockroaches will eat it 
+right 
+and they're like that's why we're putting it over 
+oh yeah of course 
+in that case we leave it alone 
+yeah that's it 
+yay 
+
+tokens  samples    ttr     st.dev      D
+  35      100    0.7894    0.061     51.792
+  36      100    0.7992    0.062     57.242
+  37      100    0.7868    0.062     53.700
+  38      100    0.7829    0.056     53.640
+  39      100    0.7731    0.062     51.357
+  40      100    0.7790    0.054     54.918
+  41      100    0.7720    0.061     53.568
+  42      100    0.7795    0.062     57.878
+  43      100    0.7616    0.056     52.320
+  44      100    0.7693    0.059     56.444
+  45      100    0.7609    0.058     54.479
+  46      100    0.7517    0.061     52.354
+  47      100    0.7432    0.053     50.543
+  48      100    0.7392    0.058     50.273
+  49      100    0.7422    0.054     52.366
+  50      100    0.7414    0.051     53.139
+
+D: average = 53.501; std dev. = 2.175
+D_optimum     <53.40; min least sq val = 0.001> 
+
+tokens  samples    ttr     st.dev      D
+  35      100    0.7957    0.065     54.239
+  36      100    0.7906    0.060     53.712
+  37      100    0.7908    0.063     55.307
+  38      100    0.7779    0.059     51.765
+  39      100    0.7792    0.058     53.633
+  40      100    0.7682    0.057     50.935
+  41      100    0.7671    0.056     51.785
+  42      100    0.7595    0.060     50.377
+  43      100    0.7700    0.057     55.423
+  44      100    0.7595    0.058     52.783
+  45      100    0.7544    0.056     52.154
+  46      100    0.7533    0.063     52.891
+  47      100    0.7500    0.058     52.875
+  48      100    0.7390    0.057     50.204
+  49      100    0.7467    0.061     53.942
+  50      100    0.7462    0.057     54.848
+
+D: average = 52.930; std dev. = 1.593
+D_optimum     <52.88; min least sq val = 0.000> 
+
+tokens  samples    ttr     st.dev      D
+  35      100    0.7917    0.065     52.664
+  36      100    0.7931    0.068     54.705
+  37      100    0.7949    0.061     56.979
+  38      100    0.7826    0.062     53.539
+  39      100    0.7746    0.061     51.914
+  40      100    0.7878    0.062     58.474
+  41      100    0.7773    0.062     55.624
+  42      100    0.7667    0.066     52.900
+  43      100    0.7556    0.056     50.219
+  44      100    0.7709    0.055     57.072
+  45      100    0.7649    0.056     55.989
+  46      100    0.7500    0.052     51.750
+  47      100    0.7517    0.056     53.479
+  48      100    0.7473    0.058     53.036
+  49      100    0.7447    0.051     53.218
+  50      100    0.7298    0.062     49.279
+
+D: average = 53.803; std dev. = 2.447
+D_optimum     <53.67; min least sq val = 0.001> 
+
+VOCD RESULTS SUMMARY
+====================
+   Types,Tokens,TTR:  <189,658,0.287234>
+  D_optimum  values:  <53.40, 52.88, 53.67>
+  D_optimum average:  53.32
+
+****** Speaker: *MAR:
+what kind of holiday 
+ah traditional holidays 
+I mean we have a lot but I mean my favorite one that which one I would like to tell you it's about Christmas 
+and oh yeah for us Christmas is very important especially because we have a family culture very strong 
+so family it's really important for us 
+so yeah in our case in family in Christmas all the family get together in someone's house like maybe in my house or my own house 
+yeah 
+and you have basically we try to do it Christmas funny 
+yeah yeah yeah 
+because we try to play some games and also do the Secret_Santa 
+do you know Secret_Santa 
+Manito 
+he never told me about Manito 
+Manito 
+yeah but you are secret 
+yeah 
+and then we eat like we eat turkey and also 
+yeah 
+and also panettone 
+I think it's like Italian panettone 
+yeah we have the same 
+yeah we also eat panettone but in Spanish we said panettone not panettone like Italian 
+and with hot chocolate 
+and then we have at twelve we have the artificial fireworks 
+no yeah fireworks 
+and then we give presents 
+yeah I mean that's all that we did 
+yeah what do you do 
+what's your favorite holiday 
+how does your how does your family usually celebrate holidays 
+nothing 
+no in Chuseok I just spend time with my friends just going out 
+like I don't know 
+we went to one of my friend's house to have lunch together and then take some pictures 
+and then yeah that's all 
+yeah go there 
+yeah 
+kind of 
+but yeah I know 
+but yeah I know 
+ah so you go to the tomb and you give them the food 
+yeah yeah yeah 
+the reverence 
+yeah 
+yeah 
+something like that 
+I think it's very similar to Mexican 
+did you see the movie Coco 
+yeah 
+Coco has also like Mexican 
+it's like yeah yeah 
+but I mean the fact that you go to the tomb and give food I think it's very related to it 
+but of course it's very different like in some ways 
+in this case it's quite different I guess 
+I think it's different 
+but I didn't know that you go with food there 
+and you leave the food there 
+wait and what did you do with the food 
+you go with the food like kind of to share and eat there with your 
+oh yeah it's very different 
+because in Mexico and also in my country we left the food there 
+no no 
+but in Peru we also have that dates like that 
+I don't know how to say it in English 
+but in Spanish it's el@s:spa Día_de_los_Muertos@s:spa which is the day that we celebrate the people who left who died 
+but we left the food there 
+yeah 
+yeah 
+yeah 
+yeah 
+wow 
+so you eat it 
+you eat all the food that you bring with you and also drink it 
+yeah 
+yeah 
+yeah 
+I saw this one 
+we did something similar but not a lot of food just small things 
+and we left in the tomb 
+and for example if it's a kind of drink if that person likes a specific drink or specific I don't know brand or something 
+but we leave it 
+no we didn't drink because we thought that this person the soul of this person is going to came to drink it 
+so we leave that 
+ah okay 
+okay 
+very interesting 
+yeah 
+yeah 
+because you cannot see it 
+yeah we don't place 
+we left the food there 
+yeah 
+sometimes when you go to the cemetery like in Peru 
+no 
+you can see like there's a lot of things there 
+and also some toys 
+people left some toys to the kids 
+ah of course you're not going to eat it 
+but yeah 
+very interesting 
+
+tokens  samples    ttr     st.dev      D
+  35      100    0.8057    0.073     58.474
+  36      100    0.7986    0.058     57.004
+  37      100    0.8030    0.058     60.541
+  38      100    0.7995    0.054     60.561
+  39      100    0.7918    0.055     58.718
+  40      100    0.7775    0.055     54.338
+  41      100    0.7693    0.057     52.578
+  42      100    0.7743    0.052     55.778
+  43      100    0.7688    0.055     54.978
+  44      100    0.7725    0.052     57.708
+  45      100    0.7656    0.047     56.247
+  46      100    0.7596    0.054     55.190
+  47      100    0.7647    0.048     58.394
+  48      100    0.7590    0.052     57.353
+  49      100    0.7506    0.056     55.351
+  50      100    0.7558    0.054     58.480
+
+D: average = 56.981; std dev. = 2.149
+D_optimum     <56.88; min least sq val = 0.000> 
+
+tokens  samples    ttr     st.dev      D
+  35      100    0.8117    0.056     61.239
+  36      100    0.8086    0.061     61.494
+  37      100    0.8076    0.059     62.698
+  38      100    0.8042    0.062     62.763
+  39      100    0.7856    0.059     56.149
+  40      100    0.7765    0.054     53.955
+  41      100    0.7739    0.060     54.304
+  42      100    0.7800    0.061     58.075
+  43      100    0.7912    0.053     64.441
+  44      100    0.7695    0.054     56.534
+  45      100    0.7651    0.051     56.075
+  46      100    0.7657    0.048     57.535
+  47      100    0.7630    0.057     57.717
+  48      100    0.7519    0.054     54.680
+  49      100    0.7627    0.056     60.039
+  50      100    0.7380    0.058     51.970
+
+D: average = 58.104; std dev. = 3.535
+D_optimum     <57.83; min least sq val = 0.001> 
+
+tokens  samples    ttr     st.dev      D
+  35      100    0.7994    0.061     55.761
+  36      100    0.7878    0.061     52.637
+  37      100    0.8103    0.057     64.017
+  38      100    0.7929    0.061     57.676
+  39      100    0.7864    0.055     56.462
+  40      100    0.7850    0.055     57.323
+  41      100    0.7810    0.054     57.087
+  42      100    0.7736    0.056     55.499
+  43      100    0.7735    0.052     56.788
+  44      100    0.7705    0.055     56.892
+  45      100    0.7629    0.053     55.227
+  46      100    0.7607    0.065     55.599
+  47      100    0.7545    0.049     54.481
+  48      100    0.7627    0.055     58.836
+  49      100    0.7469    0.059     54.015
+  50      100    0.7528    0.058     57.313
+
+D: average = 56.601; std dev. = 2.427
+D_optimum     <56.51; min least sq val = 0.001> 
+
+VOCD RESULTS SUMMARY
+====================
+   Types,Tokens,TTR:  <179,634,0.282334>
+  D_optimum  values:  <56.88, 57.83, 56.51>
+  D_optimum average:  57.07
+

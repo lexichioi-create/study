@@ -1,0 +1,12 @@
+kwal +s&-* data/holiday.cha
+Wed Oct 14 10:08:27 2026
+kwal (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+----------------------------------------
+*** File "holiday.cha": line 7. Keyword: &-um 
+*LEX:	I will ask you, &-um, how does your family celebrate your holidays ?
+----------------------------------------
+*** File "holiday.cha": line 14. Keyword: &-uh 
+*MAR:	so, &-uh, yeah, in our case, in family, in Christmas, all the family get together in someone's house, like maybe in my house or my own house .

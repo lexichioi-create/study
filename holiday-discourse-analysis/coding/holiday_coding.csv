@@ -1,0 +1,215 @@
+line,speaker,episode,manual_codes,auto_codes,words,utterance
+8,LEX,E0 과제 시작·주제 협상,TSK;QI,FILLER;Q,11,"I will ask you, &-um, how does your family celebrate your holidays ?"
+9,MAR,E0 과제 시작·주제 협상,CR,Q,4,what kind of holiday ?
+10,LEX,E0 과제 시작·주제 협상,,,9,"oh, okay, so let's talk about a traditional holiday ."
+11,MAR,E0 과제 시작·주제 협상,,,3,"ah, traditional holidays ."
+12,MAR,E1 MAR의 크리스마스(페루),TOP,RETRACE,23,"I mean, we have a lot, but I mean, my favorite one, that [//] which one I would like to tell you, it's about Christmas ."
+13,MAR,E1 MAR의 크리스마스(페루),,,18,"and oh, yeah, for us, Christmas is very important, especially because we have a family culture, very strong ."
+14,MAR,E1 MAR의 크리스마스(페루),,,7,"so family, it's really important for us ."
+15,MAR,E1 MAR의 크리스마스(페루),,FILLER,26,"so, &-uh, yeah, in our case, in family, in Christmas, all the family get together in someone's house, like maybe in my house or my own house ."
+16,MAR,E1 MAR의 크리스마스(페루),,MIN,1,yeah .
+17,MAR,E1 MAR의 크리스마스(페루),,RETRACE,9,and <you have> [//] basically we try to do it Christmas funny .
+18,LEX,E1 MAR의 크리스마스(페루),CR,Q,1,funny ?
+19,LEX,E1 MAR의 크리스마스(페루),CC,Q,6,"in a fun way, you mean ?"
+20,MAR,E1 MAR의 크리스마스(페루),,MIN,3,"yeah, yeah, yeah ."
+21,MAR,E1 MAR의 크리스마스(페루),,,12,because we try to play some games and also do the Secret_Santa .
+22,MAR,E1 MAR의 크리스마스(페루),CMC,Q,4,do you know Secret_Santa ?
+23,LEX,E1 MAR의 크리스마스(페루),CR,Q,3,what is that ?
+24,LEX,E1 MAR의 크리스마스(페루),,,4,"oh, like, yeah, Manito ."
+25,LEX,E1 MAR의 크리스마스(페루),CMP,,7,"here in Korea, we call that Manito ."
+26,MAR,E1 MAR의 크리스마스(페루),CR,Q,1,Manito ?
+27,LEX,E1 MAR의 크리스마스(페루),,MIN,1,yeah .
+28,LEX,E1 MAR의 크리스마스(페루),MLC,,6,I guess that's a French word .
+29,LEX,E1 MAR의 크리스마스(페루),,,7,"I thought, oh, your friend is French ."
+30,MAR,E1 MAR의 크리스마스(페루),,,6,he never told me about Manito .
+31,LEX,E1 MAR의 크리스마스(페루),WS,SELFINT,7,"Manito is, I guess it's something like +//."
+32,LEX,E1 MAR의 크리스마스(페루),,,3,"oh, bye Sofia ."
+33,LEX,E1 MAR의 크리스마스(페루),WS,TRAIL,5,I guess it's something like +...
+34,LEX,E1 MAR의 크리스마스(페루),ABN,,4,"wait, I don't know ."
+35,MAR,E1 MAR의 크리스마스(페루),CR,Q,1,Manito ?
+36,LEX,E1 MAR의 크리스마스(페루),,MIN,1,yeah .
+37,LEX,E1 MAR의 크리스마스(페루),CIRC,,13,"yeah, like, yeah, yeah, you have like to give a present to someone ."
+38,MAR,E1 MAR의 크리스마스(페루),COL,,5,"yeah, but you are secret ."
+39,LEX,E1 MAR의 크리스마스(페루),COL,RETRACE,18,"yeah, yeah, <you don't> [//] the other person doesn't know that you are going to give him or her that present ."
+40,MAR,E1 MAR의 크리스마스(페루),,MIN,1,yeah .
+41,MAR,E1 MAR의 크리스마스(페루),,TRAIL,10,"and then we eat, like we eat turkey and also +..."
+42,LEX,E1 MAR의 크리스마스(페루),ASM,Q,4,"oh my God, seriously ?"
+43,MAR,E1 MAR의 크리스마스(페루),,MIN,1,yeah .
+44,MAR,E1 MAR의 크리스마스(페루),,,3,and also panettone .
+45,MAR,E1 MAR의 크리스마스(페루),,,6,I think it's like Italian panettone .
+46,LEX,E1 MAR의 크리스마스(페루),CC,Q,6,do you know panettone in Italy ?
+47,MAR,E1 MAR의 크리스마스(페루),,,5,"yeah, we have the same ."
+48,MAR,E1 MAR의 크리스마스(페루),MLC,,15,"yeah, we also eat panettone, but in Spanish we said panettone, not panettone like Italian ."
+49,MAR,E1 MAR의 크리스마스(페루),,,4,and with hot chocolate .
+50,MAR,E1 MAR의 크리스마스(페루),,,11,"and then we have at twelve, we have the artificial fireworks ."
+51,MAR,E1 MAR의 크리스마스(페루),SSR,,3,"no, yeah, fireworks ."
+52,MAR,E1 MAR의 크리스마스(페루),,,5,and then we give presents .
+53,MAR,E1 MAR의 크리스마스(페루),CLS,,8,"yeah, I mean, that's all that we did ."
+54,LEX,E2 역할 전환,TSK,,2,ask me .
+55,MAR,E2 역할 전환,QI,Q,5,"yeah, what do you do ?"
+56,MAR,E2 역할 전환,QI,Q,4,what's your favorite holiday ?
+57,MAR,E2 역할 전환,QI,REPEAT;Q,7,<how does your> [/] how does your family usually celebrate holidays ?
+58,LEX,E2 역할 전환,CR,Q,2,what holidays ?
+59,LEX,E2 역할 전환,TSK,,8,"actually, I was about to ask this question ."
+60,LEX,E2 역할 전환,TSK,Q,8,"I was like, what are you curious about ?"
+61,LEX,E2 역할 전환,TOP,Q,2,about Chuseok ?
+62,LEX,E2 역할 전환,TOP;QI,Q,6,what did you do this Chuseok ?
+63,MAR,E3 MAR의 추석,,,1,nothing .
+64,LEX,E3 MAR의 추석,CR,Q,1,what ?
+65,MAR,E3 MAR의 추석,,,13,"no, in Chuseok, I just spend time with my friends, just going out ."
+66,MAR,E3 MAR의 추석,,,4,"like, I don't know ."
+67,MAR,E3 MAR의 추석,,,17,we went to one of my friend's house to have lunch together and then take some pictures .
+68,MAR,E3 MAR의 추석,CLS,,5,"and then, yeah, that's all ."
+69,LEX,E4 LEX의 추석 성묘·차례,TOP;CMP,,11,"because in our case, we actually go to like those graves ."
+70,LEX,E4 LEX의 추석 성묘·차례,CMC;APX,Q,5,"you know, those tombs, right ?"
+71,LEX,E4 LEX의 추석 성묘·차례,SSR,,3,"like, yeah, cemetery ."
+72,MAR,E4 LEX의 추석 성묘·차례,,,3,"yeah, go there ."
+73,LEX,E4 LEX의 추석 성묘·차례,APW,,9,and then we do like this thing for Chuseok .
+74,LEX,E4 LEX의 추석 성묘·차례,CMC,Q,5,"like, we have spirits, right ?"
+75,LEX,E4 LEX의 추석 성묘·차례,SSR,,1,ancestors .
+76,LEX,E4 LEX의 추석 성묘·차례,CMC,Q,3,do you know ?
+77,LEX,E4 LEX의 추석 성묘·차례,CMC,Q,4,did you know this ?
+78,MAR,E4 LEX의 추석 성묘·차례,,MIN,1,yeah .
+79,LEX,E4 LEX의 추석 성묘·차례,ASM,MIN,2,"oh, yeah !"
+80,LEX,E4 LEX의 추석 성묘·차례,QI,Q,6,you learned this in Korean center ?
+81,MAR,E4 LEX의 추석 성묘·차례,,,2,kind of .
+82,MAR,E4 LEX의 추석 성묘·차례,,,4,"but yeah, I know ."
+83,LEX,E4 LEX의 추석 성묘·차례,APX;MLC,,28,"like, we buy those kind of foods and then we cook like those kind of tempura, I don't know, like, if I'm supposed to say the Japanese word ."
+84,MAR,E4 LEX의 추석 성묘·차례,,,4,"but yeah, I know ."
+85,LEX,E4 LEX의 추석 성묘·차례,,,11,and the Korean traditional foods that we serve to the ancestors .
+86,MAR,E4 LEX의 추석 성묘·차례,CC,Q,13,"ah, so you go to the tomb and you give them the food ?"
+87,LEX,E4 LEX의 추석 성묘·차례,,MIN,1,yeah .
+88,LEX,E4 LEX의 추석 성묘·차례,,,8,"and that, like, it's my grandmother and grandpa ."
+89,LEX,E4 LEX의 추석 성묘·차례,,,3,"like, they died ."
+90,LEX,E4 LEX의 추석 성묘·차례,,,7,"so like, they are in the cemetery ."
+91,LEX,E4 LEX의 추석 성묘·차례,,,9,"so like, we go there and then we pray ."
+92,LEX,E4 LEX의 추석 성묘·차례,,,7,and then we like do the bow .
+93,LEX,E4 LEX의 추석 성묘·차례,CMC,Q,4,do you know bow ?
+94,MAR,E4 LEX의 추석 성묘·차례,,MIN,3,"yeah, yeah, yeah ."
+95,MAR,E4 LEX의 추석 성묘·차례,COL;APX,,2,the reverence .
+96,LEX,E4 LEX의 추석 성묘·차례,AGR,MIN,2,"yeah, yeah ."
+97,LEX,E4 LEX의 추석 성묘·차례,,,3,we do that .
+98,LEX,E4 LEX의 추석 성묘·차례,,,6,and then we meet our relatives .
+99,LEX,E4 LEX의 추석 성묘·차례,APW,,14,and we hang out and we drink with those kind of foods from those .
+100,LEX,E4 LEX의 추석 성묘·차례,WS,Q,5,what do you call that ?
+101,LEX,E4 LEX의 추석 성묘·차례,WS,,2,I forgot .
+102,LEX,E4 LEX의 추석 성묘·차례,WS,,6,there is this term for it .
+103,LEX,E4 LEX의 추석 성묘·차례,WS;APX,,4,"like, it's not ceremony ."
+104,LEX,E4 LEX의 추석 성묘·차례,WS,Q,3,what the fuck ?
+105,LEX,E4 LEX의 추석 성묘·차례,WS,,5,"it's like, I don't know ."
+106,LEX,E4 LEX의 추석 성묘·차례,WS,,9,but there is this English term to call that .
+107,LEX,E4 LEX의 추석 성묘·차례,WS,,3,but I forgot .
+108,LEX,E4 LEX의 추석 성묘·차례,,,4,"yeah, we do that ."
+109,LEX,E4 LEX의 추석 성묘·차례,APX,,4,"like, it's like ritual ."
+110,MAR,E4 LEX의 추석 성묘·차례,,MIN,1,yeah .
+111,MAR,E4 LEX의 추석 성묘·차례,,MIN,1,yeah .
+112,MAR,E4 LEX의 추석 성묘·차례,AGR,,3,something like that .
+113,MAR,E5 비교: 코코·멕시코,TOP;CMP,,7,I think it's very similar to Mexican .
+114,MAR,E5 비교: 코코·멕시코,QI,Q,6,did you see the movie Coco ?
+115,LEX,E5 비교: 코코·멕시코,,MIN,1,yeah .
+116,LEX,E5 비교: 코코·멕시코,,MIN,1,yeah .
+117,LEX,E5 비교: 코코·멕시코,,,4,just some of them .
+118,MAR,E5 비교: 코코·멕시코,,MIN,1,yeah .
+119,MAR,E5 비교: 코코·멕시코,,,5,Coco has also like Mexican .
+120,LEX,E5 비교: 코코·멕시코,DIS,,5,but it's not that pretty .
+121,LEX,E5 비교: 코코·멕시코,CMP,,6,"you know, it's like Asians different ."
+122,MAR,E5 비교: 코코·멕시코,AGR,,4,"it's like, yeah, yeah ."
+123,MAR,E5 비교: 코코·멕시코,CMP,,21,"but I mean, the fact that you go to the tomb and give food, I think it's very related to it ."
+124,MAR,E5 비교: 코코·멕시코,CMP,,10,"but of course, it's very different, like in some ways ."
+125,LEX,E5 비교: 코코·멕시코,AGR,,5,"yeah, because that's really ritual ."
+126,MAR,E5 비교: 코코·멕시코,CMP,,8,"in this case, it's quite different, I guess ."
+127,LEX,E5 비교: 코코·멕시코,,MIN,2,"yeah, yeah ."
+128,MAR,E5 비교: 코코·멕시코,CMP,,4,I think it's different .
+129,MAR,E6 음식: 두고 오기 vs 먹기,TOP,,10,but I didn't know that you go with food there .
+130,LEX,E6 음식: 두고 오기 vs 먹기,,,9,"yeah, of course we need to go with food ."
+131,LEX,E6 음식: 두고 오기 vs 먹기,,,4,and then some soju .
+132,MAR,E6 음식: 두고 오기 vs 먹기,CC,Q,6,and you leave the food there ?
+133,LEX,E6 음식: 두고 오기 vs 먹기,,,9,"no, we of course need to clean it up ."
+134,LEX,E6 음식: 두고 오기 vs 먹기,,,3,we leave flowers .
+135,MAR,E6 음식: 두고 오기 vs 먹기,QI,Q,9,"wait, and what did you do with the food ?"
+136,LEX,E6 음식: 두고 오기 vs 먹기,,,3,we eat it .
+137,LEX,E6 음식: 두고 오기 vs 먹기,,,16,"we believe that it is quite really, you know, good to eat those kind of foods ."
+138,LEX,E6 음식: 두고 오기 vs 먹기,WS,,11,"because after having the rituals, it's quite like, I don't know ."
+139,LEX,E6 음식: 두고 오기 vs 먹기,WS;APX,,8,I don't know how to call it baptized .
+140,LEX,E6 음식: 두고 오기 vs 먹기,WS,Q,5,what the fuck is that ?
+141,MAR,E6 음식: 두고 오기 vs 먹기,CC;COL,TRAIL,15,"you go with the food, like kind of to share and eat there with your +..."
+142,LEX,E6 음식: 두고 오기 vs 먹기,,MIN,1,yeah .
+143,MAR,E6 음식: 두고 오기 vs 먹기,CMP,,5,"oh, yeah, it's very different ."
+144,MAR,E6 음식: 두고 오기 vs 먹기,CMP,,13,"because in Mexico and also in my country, we left the food there ."
+145,LEX,E6 음식: 두고 오기 vs 먹기,OC,,5,but you're not from Mexico .
+146,MAR,E6 음식: 두고 오기 vs 먹기,,MIN,2,"no, no ."
+147,MAR,E6 음식: 두고 오기 vs 먹기,,,10,"but in Peru, we also have that dates like that ."
+148,MAR,E6 음식: 두고 오기 vs 먹기,WS;MLC,,9,I don't know how to say it in English .
+149,MAR,E6 음식: 두고 오기 vs 먹기,SSR,CSW,19,"but in Spanish it's el@s:spa Día_de_los_Muertos@s:spa which is the day that we celebrate the people who left, who died ."
+150,LEX,E6 음식: 두고 오기 vs 먹기,,MIN,1,yeah .
+151,MAR,E6 음식: 두고 오기 vs 먹기,CMP,,6,but we left the food there .
+152,LEX,E6 음식: 두고 오기 vs 먹기,,MIN,1,yeah .
+153,LEX,E6 음식: 두고 오기 vs 먹기,CMP,,7,"and in our case, we eat it ."
+154,LEX,E6 음식: 두고 오기 vs 먹기,CMC,Q,12,"and then if there's like makgeolli, you haven't heard of makgeolli, right ?"
+155,MAR,E6 음식: 두고 오기 vs 먹기,,MIN,1,yeah .
+156,LEX,E6 음식: 두고 오기 vs 먹기,,,4,we have the makgeolli .
+157,LEX,E6 음식: 두고 오기 vs 먹기,,,5,and then we serve makgeolli .
+158,LEX,E6 음식: 두고 오기 vs 먹기,WS,,20,"and then if you drink the served makgeolli, it's kind of good because like that is a, I don't know ."
+159,LEX,E6 음식: 두고 오기 vs 먹기,RES,,5,"wait, I'll search the term ."
+160,LEX,E6 음식: 두고 오기 vs 먹기,,MIN,1,no .
+161,LEX,E6 음식: 두고 오기 vs 먹기,APX,,2,"yeah, divine ."
+162,MAR,E6 음식: 두고 오기 vs 먹기,,MIN,1,yeah .
+163,MAR,E6 음식: 두고 오기 vs 먹기,,MIN,1,yeah .
+164,LEX,E6 음식: 두고 오기 vs 먹기,,,9,something's like that because we did ritual in it .
+165,MAR,E6 음식: 두고 오기 vs 먹기,,MIN,1,yeah .
+166,LEX,E6 음식: 두고 오기 vs 먹기,,,7,so we need to eat those foods .
+167,LEX,E6 음식: 두고 오기 vs 먹기,,,10,"and before the ritual, you're not really allowed to eat ."
+168,LEX,E6 음식: 두고 오기 vs 먹기,,,5,"but of course, we do ."
+169,LEX,E6 음식: 두고 오기 vs 먹기,,,15,"because we do eat those kind of foods before serving, but it's not really suggested ."
+170,MAR,E6 음식: 두고 오기 vs 먹기,,MIN,1,wow .
+171,MAR,E6 음식: 두고 오기 vs 먹기,CC,,4,so you eat it .
+172,MAR,E6 음식: 두고 오기 vs 먹기,CC,,14,you eat all the food that you bring with you and also drink it .
+173,LEX,E7 사진·조상의 음식,,MIN,1,yeah .
+174,LEX,E7 사진·조상의 음식,RES,Q,4,you want to see ?
+175,LEX,E7 사진·조상의 음식,RES,,6,I will show you the picture .
+176,LEX,E7 사진·조상의 음식,,,8,it's like we do this one at home .
+177,MAR,E7 사진·조상의 음식,,MIN,1,yeah .
+178,MAR,E7 사진·조상의 음식,,MIN,1,yeah .
+179,MAR,E7 사진·조상의 음식,,MIN,1,yeah .
+180,MAR,E7 사진·조상의 음식,,,4,I saw this one .
+181,LEX,E7 사진·조상의 음식,,,2,this one .
+182,LEX,E7 사진·조상의 음식,,MIN,1,yeah .
+183,MAR,E7 사진·조상의 음식,CMP,,13,"we did something similar, but not a lot of food, just small things ."
+184,MAR,E7 사진·조상의 음식,,,6,and we left in the tomb .
+185,MAR,E7 사진·조상의 음식,,TRAIL,24,"and for example, if it's a kind of drink, if that person likes a specific drink or specific, I don't know, brand or something +..."
+186,LEX,E7 사진·조상의 음식,AGR,,6,"oh yeah, we also do that ."
+187,MAR,E7 사진·조상의 음식,CMP,,4,but we leave it .
+188,LEX,E7 사진·조상의 음식,CMP,,3,we drink it .
+189,MAR,E7 사진·조상의 음식,CMP,RETRACE,20,"no, we didn't drink because we thought that <this person> [//] the soul of this person is going to came to drink it ."
+190,LEX,E7 사진·조상의 음식,AGR,,3,"yeah, us too ."
+191,MAR,E7 사진·조상의 음식,,,4,so we leave that .
+192,LEX,E7 사진·조상의 음식,AGR,,2,me too .
+193,LEX,E7 사진·조상의 음식,CMP,,11,"like we also think like that, but like, that's different shit ."
+194,LEX,E7 사진·조상의 음식,CIRC,,15,"they will eat it and drink it, but that's what the spirit of the food ."
+195,MAR,E7 사진·조상의 음식,,MIN,2,"ah, okay ."
+196,MAR,E7 사진·조상의 음식,,MIN,1,okay .
+197,MAR,E7 사진·조상의 음식,ASM,,2,very interesting .
+198,LEX,E7 사진·조상의 음식,CMP,,8,it's like we think that it's quite different .
+199,MAR,E7 사진·조상의 음식,,MIN,1,yeah .
+200,LEX,E7 사진·조상의 음식,CIRC,,8,like the human food and then the ancestors .
+201,MAR,E7 사진·조상의 음식,,MIN,1,yeah .
+202,MAR,E7 사진·조상의 음식,COL,,5,because you cannot see it .
+203,LEX,E7 사진·조상의 음식,AGR,,3,"yeah, of course ."
+204,MAR,E8 페루 묘지·종결,,,4,"yeah, we don't place ."
+205,MAR,E8 페루 묘지·종결,CMP,,5,we left the food there .
+206,MAR,E8 페루 묘지·종결,,MIN,1,yeah .
+207,MAR,E8 페루 묘지·종결,TOP,TRAIL,10,"sometimes when you go to the cemetery, like in Peru +..."
+208,LEX,E8 페루 묘지·종결,COL,,6,"of course, cockroaches will eat it ."
+209,LEX,E8 페루 묘지·종결,,MIN,1,right .
+210,LEX,E8 페루 묘지·종결,,,9,"and they're like, that's why we're putting it over ."
+211,MAR,E8 페루 묘지·종결,DIS,MIN,1,no .
+212,MAR,E8 페루 묘지·종결,,,10,"you can see like, there's a lot of things there ."
+213,MAR,E8 페루 묘지·종결,,,4,and also some toys .
+214,MAR,E8 페루 묘지·종결,,,7,people left some toys to the kids .
+215,LEX,E8 페루 묘지·종결,AGR,,4,"oh yeah, of course ."
+216,LEX,E8 페루 묘지·종결,,,7,"in that case, we leave it alone ."
+217,MAR,E8 페루 묘지·종결,COL,,9,"ah, of course, you're not going to eat it ."
+218,MAR,E8 페루 묘지·종결,,,2,but yeah .
+219,MAR,E8 페루 묘지·종결,ASM,,2,very interesting .
+220,LEX,E8 페루 묘지·종결,CLS,,3,"yeah, that's it ."
+221,LEX,E8 페루 묘지·종결,CLS,MIN,1,yay .

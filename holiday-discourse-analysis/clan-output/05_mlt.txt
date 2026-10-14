@@ -1,0 +1,22 @@
+mlt data/holiday.cha
+Wed Oct 14 10:08:27 2026
+mlt (21-Sep-2026) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <holiday.cha>
+MLT for Speaker: *LEX:
+  MLT (xxx, yyy and www are EXCLUDED from the word counts, but are INCLUDED in utterance counts):
+    Number of: utterances = 114, turns = 46, words = 656
+	Ratio of words over turns = 14.261
+	Ratio of utterances over turns = 2.478
+	Ratio of words over utterances = 5.754
+	Standard deviation = 4.420
+
+MLT for Speaker: *MAR:
+  MLT (xxx, yyy and www are EXCLUDED from the word counts, but are INCLUDED in utterance counts):
+    Number of: utterances = 100, turns = 45, words = 626
+	Ratio of words over turns = 13.911
+	Ratio of utterances over turns = 2.222
+	Ratio of words over utterances = 6.260
+	Standard deviation = 5.751
+
